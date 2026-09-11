@@ -1,0 +1,60 @@
+name: Build 1000-site design library
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_website_references.py
+      - .github/workflows/build-design-library.yml
+      - references/websites/A.csv
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-design-library
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Build ranked reference files
+        run: python scripts/build_website_references.py
+
+      - name: Validate generated library
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          p = Path('references/websites/all.csv')
+          rows = list(csv.DictReader(p.open(encoding='utf-8')))
+          assert len(rows) == 1000, len(rows)
+          assert [int(r['priority']) for r in rows] == list(range(1, 1001))
+          assert len({r['url'].split('/')[2].removeprefix('www.') for r in rows}) == 1000
+          print('validated 1000 unique ranked sites')
+          PY
+
+      - name: Commit generated references
+        run: |
+          git config user.name "vexum-design-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add references/websites
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Generate 1000 ranked design references"
+            git push
+          fi
