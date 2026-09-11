@@ -1,0 +1,1001 @@
+priority,rank,name,url,focus
+1,A,Relume,https://www.relume.ai,product
+2,A,Oliver Gareis,https://www.olivergareis.com,typography
+3,A,Artiom Yakushev,https://www.art-yakushev.com,typography
+4,A,Arcway,https://arcway.ai,layout
+5,A,Driftime,https://2025.driftime.com,motion
+6,A,Dan Mall,https://danmall.com,editorial
+7,A,Caliper Studios,https://caliper.studio,brand
+8,A,Daniel Sun,https://danielsun.space,typography
+9,A,Heron AI,https://heronaiapp.com,product
+10,A,Provider,https://provider.studio,typography
+11,A,MCKP,https://mckp.live,motion
+12,A,Caractère Bois,https://www.caractere-bois.fr,ecommerce
+13,A,Interfaces,https://interfaces.dev,editorial
+14,A,Deadwater,https://www.deadwater.fr,typography
+15,A,House Of Yellow,https://houseofyellow.nl,brand
+16,A,Brikken+Co,https://www.brikken.co,brand
+17,A,Vasa,https://www.vasa.works,brand
+18,A,Fisch & Tisch,https://www.fischundtisch.de,ecommerce
+19,A,Dousan Miao,https://www.dousanmiao.com,layout
+20,A,Goodside,https://www.goodside.studio,brand
+21,A,Tokens Studio,https://tokens.studio,product
+22,A,Trionn,https://trionn.com,motion
+23,A,Juan Mora,https://juanmora.co,3d
+24,A,Copula Agency,https://copula.agency,brand
+25,A,Artem Shcherbakov,https://artemartemartem.com,illustration
+26,A,Modus Fōrma,https://www.modusforma.com.au,layout
+27,A,Kononenko Architectural Bureau,https://kononenkogroup.com,typography
+28,A,Nick Clement,https://nickclement.com,minimal
+29,A,Idyllic,https://idyllic.co.nz,brand
+30,A,Dirt,https://dirtverse.co,3d
+31,A,Wild,https://craft.wild.as,motion
+32,A,Christoph Rauscher,https://christophrauscher.de,layout
+33,A,KEI,https://kei-inc.jp,typography
+34,A,Cassandra Tang,https://www.cassandratang.com,minimal
+35,A,Desses,https://desses.co,typography
+36,A,Huts,https://huts.com,brand
+37,A,Good Secrets,https://goodsecrets.co,brand
+38,A,Philip Readman,https://www.philipreadman.com,typography
+39,A,Riesen Design,https://www.riesendesign.fi,brand
+40,B,Phantom Studios,https://www.phantom.land/,brand
+41,B,Michele Greco,https://www.michelegre.co/,portfolio
+42,B,Glass abstract shapes,https://glass-abstract-animated-shapes.wannathis.one/,product
+43,B,Victoria Gee,https://victoriagee.es/en,portfolio
+44,B,Atlas by WorkOS,https://workos.com/atlas,product
+45,B,COLLINS,https://wearecollins.com/,brand
+46,B,The Resonance Studio,https://www.theresonance.studio/,brand
+47,B,Michaël Bernard,https://www.michaelbernard.fr/,portfolio
+48,B,Studio Heyday,https://heyday.ch/,brand
+49,B,Frank Chimero,https://frankchimero.com/,portfolio
+50,B,Collserola,https://collserola.com/,brand
+51,B,Money in Check,https://moneyincheck.org/,product
+52,B,Calendly,https://calendly.com/,product
+53,B,Kalok Yeung,https://www.kalokyeung.com/,portfolio
+54,B,Wx,https://ilyywx.com/,brand
+55,B,Liquidities,https://www.liquidities.xyz/,portfolio
+56,B,Jig Tailor,https://jigtailor.xyz/,portfolio
+57,B,HiKeys—1977,https://www.hikeys1977.com/,product
+58,B,Thayon,https://thayon.com/,brand
+59,B,Hyper Effekt,https://hypereffekt.com/,brand
+60,B,Glue,https://www.use-glue.com/,brand
+61,B,Viacheslav Novoseltsev,https://vshslv.com/,portfolio
+62,B,Strata,https://strata.ws/,product
+63,B,Marius Bălaj,https://balajmarius.com/,portfolio
+64,B,TerraPower,https://www.terrapower.com/,product
+65,B,JARCOS,https://jarcos.work/,brand
+66,B,Jordan Gilroy,https://www.jordangilroy.com/,portfolio
+67,B,T for Troels,https://www.tfortroels.com/,portfolio
+68,B,Marijana Pavlinić,https://marijanapav.com/,portfolio
+69,B,Keya Vadgama,https://keyavadgama.com/,portfolio
+70,B,Overtype,https://www.overtypefoundry.com/,portfolio
+71,B,Thursday,https://thursday.studio/,brand
+72,B,Peter Tarka,https://petertarka.com/,portfolio
+73,B,Konolee,https://konolee.com/,portfolio
+74,B,Iru,https://www.iru.com/,product
+75,B,Ragged Edge,https://raggededge.com/,brand
+76,B,Vucko,https://vucko.co/,portfolio
+77,B,Ballpoint,https://www.weareballpoint.com/,brand
+78,B,The New Industrials,https://thenewindustrials.com/,landing
+79,C,Afterwork Industries,https://madeafterwork.com/,ecommerce
+80,C,Designer Fund,https://designerfund.com/,product
+81,C,Locomotive®,https://locomotive.ca/,brand
+82,C,Tracebit,https://tracebit.com/,product
+83,C,Music Videos I Like,https://music-videos.lsvs.cloud/grid,product
+84,C,Sania Saleh,https://www.sania.io/,portfolio
+85,C,Clay,https://www.clay.com/,product
+86,C,Ploy,https://ploy.ai/,product
+87,C,Artem Astakhov,https://hiartem.com/,portfolio
+88,C,Route de Noël,https://www.routedenoel.com/en,product
+89,C,Mora,https://mora.com/,product
+90,C,Agentwork,https://agentwork.com/,product
+91,C,Bailey Elith,https://www.baileyelith.com/,portfolio
+92,C,AlterG,https://altergresources.com/,product
+93,C,Ethan Suero,https://www.ethansuero.com/,brand
+94,C,North of Zero,https://www.northofzero.dev/,brand
+95,C,Andre Candido,https://andre-candido.com/,portfolio
+96,C,Edoardo Lunardi,https://www.edoardolunardi.dev/,portfolio
+97,C,Mollie,https://www.mollie.com/,product
+98,C,Hugo Baron,https://nuageboi.fr/,portfolio
+99,C,Jon Howell,https://www.jonhowell.com/,portfolio
+100,C,Sofia Khegai,https://khegai.com/,portfolio
+101,C,Alvin Leung,https://alvinn.design/,portfolio
+102,C,Daniil Chebotarev,https://www.daniilch.design/,portfolio
+103,C,Ko–T,https://ko-t.com/,portfolio
+104,C,Vladimir Pushkarev,https://puschkarew.com/,portfolio
+105,C,Impossible Foods,https://impossiblefoods.com/,product
+106,C,Vendredi Society,https://vendredi-society.com/,brand
+107,C,Modern Practice,https://itsmodernpractice.com/,brand
+108,C,MONOLOG,https://bymonolog.com/,brand
+109,C,House of Honey,https://www.houseofhoney.com/,brand
+110,C,Agency Habitat,https://agencyhabitat.com/,brand
+111,C,Belle Duffner,https://belleduffner.com/,portfolio
+112,C,New Arc,https://newarc.io/,brand
+113,C,MKTLM,https://mktlm.obys.agency/,portfolio
+114,C,Letters,https://letters.app/,product
+115,C,STUDIO HERRSTRÖM,https://www.studioherrstrom.com/,brand
+116,C,Rabbits Black,https://rabbitsblack.com/,brand
+117,C,Willy Brauner,https://willybrauner.com/,portfolio
+118,D,Legora,https://legora.com/,product
+119,D,Nordiska Museet,https://www.nordiskamuseet.se/en,product
+120,D,Off The Wall,https://offthewall.studio/,brand
+121,D,Clay Cup,https://claycup.com/,product
+122,D,Off Menu,https://www.offmenu.design/,brand
+123,D,Typography In Web Design,https://tiwd.courses/,landing
+124,D,Turno,https://turnoev.com/,product
+125,D,forpeople,https://forpeople.com/,brand
+126,D,ITEM,https://item-amsterdam.nl/,ecommerce
+127,D,Uncut,https://uncut.wtf/,ecommerce
+128,D,Circa,https://circa.so/,landing
+129,D,Fey,https://www.fey.com/,product
+130,D,Girl,https://www.girl.studio/,brand
+131,D,Audion,https://www.audion.ai/,product
+132,D,Aave,https://aave.com/,product
+133,D,Visual Domain,https://www.visualdomain.com.au/,brand
+134,D,Tailscale,https://tailscale.com/,product
+135,D,Stōkt Creative Co.,https://wearestokt.com/,brand
+136,D,Redo Media,https://redomedia.co/,brand
+137,D,Sergey Lisovskiy,https://lisovskiy.work/,portfolio
+138,D,Red Flags For Cash,https://redflagsforcash.com/,product
+139,D,AAA24,https://aaa24.a24films.com/,product
+140,D,Dapper,https://www.dapper.agency/,brand
+141,D,Zenwood Studio,https://zenwood.studio/,portfolio
+142,D,Aspen Search,https://www.aspensearch.com/,brand
+143,D,The General Intelligence Company,https://www.generalintelligencecompany.com/,brand
+144,D,Stephan Mann,https://www.stvxmvnn.com/,portfolio
+145,D,Maximilian Kaspar,https://www.maximiliankaspar.com/,portfolio
+146,D,Outfit,https://outfit.hellohello.is/,ecommerce
+147,D,Vecton,https://vecton.ai/,product
+148,D,Deeo Studio,https://deeo.studio/,brand
+149,D,VisionAI,https://visionai.co/,product
+150,D,Digital Metal,https://www.digitalmetal.io/,product
+151,D,United Carriers,https://unitedcarriers.com/,product
+152,D,The Future in Black,https://www.thefutureinblack.com/,brand
+153,D,SCS,https://o-scs.com/,brand
+154,D,Tom Cavill,https://tomcavill.com/,portfolio
+155,D,Sarah & Matt,https://sarahandmatt.wedding/,product
+156,D,CURA Climate,https://www.curaclimate.com/,product
+157,E,Shed,https://shed.design/,brand
+158,E,Harsh Shah,https://harshshah.design/,portfolio
+159,E,Maria Vareva,https://mariavareva.com/,portfolio
+160,E,New Layer Capital,https://nlc.obys.agency/,product
+161,E,Hugo,https://hugo.ai/en,product
+162,E,Materra,https://www.materra.tech/,brand
+163,E,Groth Studio,https://www.groth.studio/,brand
+164,E,HUMAHOME,https://humahome.com/,product
+165,E,Peerscale,https://peerscale.com/,product
+166,E,Atoms,https://atoms.co/,product
+167,E,Rare Assembly,https://rareassembly.com/,brand
+168,E,Saint Urbain,https://www.sainturbain.com/,brand
+169,E,Nicolas Bussière,https://www.nicolasbussiere.com/,portfolio
+170,E,Allier Ho,https://allierho.com/,portfolio
+171,E,GT Standard,https://gt-standard.com/,product
+172,E,Studio Juicebox,https://www.studio-juicebox.com/,brand
+173,E,Please Call Me Champ,https://pleasecallmechamp.com/,brand
+174,E,Jonas Pelzer,https://jonaspelzer.com/,portfolio
+175,E,T72T,https://www.t72t.com/,portfolio
+176,E,Seed,https://seed.com/,ecommerce
+177,E,Towpath,https://towpath.io/,product
+178,E,Orbit,https://tryorbit.com/,product
+179,E,Article,https://madebyarticle.com/,brand
+180,E,Ginkgo Bioworks,https://www.ginkgobioworks.studio/,portfolio
+181,E,Aether 1,https://www.aether1.ai/,ecommerce
+182,E,September Works,https://www.september.works/,brand
+183,E,Endless,https://endless.design/,brand
+184,E,GENBRAND,https://genbrand.design/,brand
+185,E,Practice,https://practice.inc/,brand
+186,E,Dauw,https://www.dauw.nl/,brand
+187,E,Artifact,https://www.rtfct.com/,brand
+188,E,TR Studio,https://trstudio.co.uk/,brand
+189,E,Bajgart Design Office,https://bajgartoffice.com/,portfolio
+190,E,Hypercard,https://www.hypercard.com/,landing
+191,E,Alphamark,https://alphamark.design/,brand
+192,E,Focus Lab,https://focuslab.agency/,brand
+193,E,New Genre,https://newgenre.studio/,brand
+194,E,Resend,https://resend.com/,product
+195,E,Satius,https://www.satius.app/,product
+196,F,SISA,https://sisa.ai/,product
+197,F,Keytail,https://www.keytail.ai/,product
+198,F,ON.energy,https://www.on.energy/,product
+199,F,Tavus,https://www.tavus.io/,product
+200,F,UGLYCASH,https://ugly.cash/,product
+201,F,Keith Greenbaum,https://www.keithgreenbaum.com/,portfolio
+202,F,Native,https://www.native.inc/,product
+203,F,Euphemia,https://euphemia.com/,product
+204,F,Caladan,https://caladan.bio/,product
+205,F,MoMoney,https://www.museumofmoney.com/,product
+206,F,Ease Health,https://easehealth.com/,product
+207,F,Gloria Wong,https://gloriawong.co/,portfolio
+208,F,Gumloop,https://www.gumloop.com/,product
+209,F,Resurf,https://resurf.so/,product
+210,F,Google Cloud x Team USA,https://sports.withgoogle.com/teamusa,product
+211,F,Daybreak Studio,https://www.daybreak.studio/,brand
+212,F,Kaiko,https://kaiko.ai/,product
+213,F,NGLM,https://www.nglm.com/,brand
+214,F,Driftime®,https://driftime.com/,brand
+215,F,Akash Tyagi,https://akashtyagi.com/,portfolio
+216,F,Hurt Feelings,https://www.hurt-feelings.com/,product
+217,F,Fin,https://fin.ai/,product
+218,F,Instrument,https://www.instrument.com/,brand
+219,F,OutThere,https://www.outthere.studio/,brand
+220,F,SMAQ,https://carrierescene.ca/,product
+221,F,The Content Architecture,https://www.contentarchitecture.dev/,product
+222,F,Tinker,https://www.tinker.com/uk,product
+223,F,Will Beeching,https://willbeeching.com/,portfolio
+224,F,Diegovz,https://diegovz.com/,portfolio
+225,F,Cassia Freire,https://cassia.design/,portfolio
+226,F,George Badea,https://georgebadea.com/,portfolio
+227,F,Cob,https://cobfoods.com/,ecommerce
+228,F,Darkroom,https://www.darkroom.au/,ecommerce
+229,F,Keel,https://keel.so/,product
+230,F,Rise Plasma,https://www.riseplasma.com/,product
+231,F,Edition,https://www.editiondesign.co/,brand
+232,F,ISO Meet,https://www.isomeet.com/,product
+233,F,Koto,https://koto.com/,brand
+234,F,Oberyon,https://oberyon.com/,brand
+235,G,Piet Aukeman,https://piet.website/,portfolio
+236,G,Jason Reynolds,https://jsnrynlds.xyz/,portfolio
+237,G,Sidestage,https://www.sidestage.vc/,product
+238,G,Shopify Design,https://shopify.design/,product
+239,G,Glyphs,https://glyphsapp.com/,product
+240,G,Yonis,https://www.studioyonis.com/,brand
+241,G,Michael Brown,https://www.mbrown.work/,portfolio
+242,G,PUR+ Architekten,https://www.purplus.team/,brand
+243,G,Antonin Saurat,https://www.antoninsaurat.work/,portfolio
+244,G,Search Party,https://www.searchparty.com/,product
+245,G,Relats,https://toptier.relats.com/,product
+246,G,10×Designers,https://10xdesigners.co/,product
+247,G,ALSO,https://ridealso.com/,ecommerce
+248,G,Emily in Paris,https://www.parisbyemily.com/,product
+249,G,Quick Copies,https://quickcopies.com/,product
+250,G,Worknight Studio,https://worknight.studio/,brand
+251,G,Primora,https://primora.xyz/,brand
+252,G,Skarlo,https://skarlo.co/,brand
+253,G,Brethren Design Co,https://www.brethrendesignco.com/,brand
+254,G,Revitin,https://revitin.com/,ecommerce
+255,G,MasterClass,https://www.masterclass.com/,product
+256,G,Craft,https://www.craft.do/,product
+257,G,Latitude.sh,https://www.latitude.sh/,product
+258,G,Kastle,https://www.kastle.ai/,product
+259,G,For Good Design Lab,https://www.forgooddesignlab.com/,brand
+260,G,Collider,https://www.drinkcollider.com/,ecommerce
+261,G,Pelata Pieces,https://www.pelatapieces.com/,ecommerce
+262,G,Cluely,https://cluely.com/,product
+263,G,NTGent,https://www.ntgent.be/en,product
+264,G,Algo,https://algo.tv/,brand
+265,G,AI in Design Report 2026,https://stateofaidesign.com/,product
+266,G,Lineage,https://lineage.agency/,brand
+267,G,Studio Agriculture,https://studioagriculture.co/,portfolio
+268,G,Sunrise Robotics,https://sunriserobotics.co/,product
+269,G,Nothing,https://nothing.tech/,product
+270,G,Purée Maison,https://pureemaison.com/,brand
+271,G,Ask Phill,https://askphill.com/,brand
+272,G,Dream Recorder,https://dreamrecorder.ai/,product
+273,G,Adaline,https://www.adaline.ai/,product
+274,H,Parabol,https://parabol.fi/,product
+275,H,Kus,https://mikekus.com/,portfolio
+276,H,xAI,https://x.ai/,product
+277,H,David Alaba,https://www.davidalaba.com/,product
+278,H,Flayks,https://flayks.com/,portfolio
+279,H,Josh Dring,https://www.joshdring.com/,portfolio
+280,H,StanOS,https://www.stanreimgen.space/,portfolio
+281,H,Mostly Objects,https://mostlyobjects.com/,ecommerce
+282,H,DUA™,https://duabyab.com/,ecommerce
+283,H,GT Era,https://gt-era.com/,product
+284,H,Sonder Studio,https://sonder.design/,brand
+285,H,Claudia Mussett,https://clauaskee.com/,portfolio
+286,H,David McGillivray,https://www.dmcg.co/,portfolio
+287,H,Clarion,https://www.clarionhealth.com/,product
+288,H,EN ATTENDANT GODOT,https://www.enattendantgodot.xyz/,brand
+289,H,DNCO,https://dnco.com/,brand
+290,H,Ulysses de Santi,https://ulyssesdesanti.com/,portfolio
+291,H,Christopher Koziol,https://koziol.design/,portfolio
+292,H,Emily Campbell,https://www.emilycampbell.co/,portfolio
+293,H,Jules Andrieu,https://jsandrieu.com/,portfolio
+294,H,Eugene Serpokrylov,https://branevsky.com/,portfolio
+295,H,Seb-astian,https://www.seb-astian.com/,portfolio
+296,H,Gianluca Patti,https://glcpatti.com/,portfolio
+297,H,Camila Rosa,https://www.camilarosa.net/,portfolio
+298,H,Joffrey Spitzer,https://joffreyspitzer.com/,portfolio
+299,H,Giacomo Dal Prà,https://www.giacomodalpra.com/,portfolio
+300,H,Graza,https://www.graza.co/,ecommerce
+301,H,Velora Home,https://www.velorahome.com/,ecommerce
+302,H,The Defense Reformation,https://18theses.com/,landing
+303,H,Acctual,https://acctual.com/,product
+304,H,Corner,https://www.corner.inc/,product
+305,H,Sui Overflow 2025,https://sui.io/overflow,product
+306,H,Invertase,https://invertase.io/,product
+307,H,Shopify Editions,https://www.shopify.com/editions/winter2026,product
+308,H,Kohne & Reynolds,https://kohnereynolds.com/,brand
+309,H,Artone Studio,https://artone.studio/,brand
+310,H,A Color Bright,https://www.acolorbright.com/,brand
+311,H,Arnaldo Petrazzini,https://arnaldo.zip/,portfolio
+312,H,Adiel Vasquez,https://adiel.design/,portfolio
+313,I,Eduardo Duccigne,https://eduardoduccigne.co/en,portfolio
+314,I,Valeriia Kostenko,https://valeriiakostenko.com/,portfolio
+315,I,Eric Sin,https://ericsin.com/,portfolio
+316,I,Studio Primal,https://www.studioprimal.com/,portfolio
+317,I,Daniël van der Winden,https://www.daniel.pizza/,portfolio
+318,I,New Ground Coffee,https://www.newgroundcoffee.com/,ecommerce
+319,I,Monolith,https://monolith.nyc/,ecommerce
+320,I,Redbrick,https://redbrick.coffee/,ecommerce
+321,I,Julius,https://outlinetype.com/julius,product
+322,I,GT Pantheon,https://gt-pantheon.com/,product
+323,I,Cash App,https://cash.app/,product
+324,I,Earthodic,https://www.earthodic.com/,product
+325,I,Orchid,https://orchid.ai/,product
+326,I,Garriock & Co.,https://www.garriock.com/,brand
+327,I,Good Habit,https://goodhabit.studio/,brand
+328,I,Our Life's Work ®,https://www.ourlifeswork.com/,brand
+329,I,Abbr. Projects,https://www.abbrprojects.com/,brand
+330,I,Primary Works,https://www.primary.works/,brand
+331,I,Victor Berbel,https://www.victorberbel.work/,portfolio
+332,I,Regis Biron,https://regis.works/,portfolio
+333,I,Daniel Herzog,https://www.danielherzog.design/,portfolio
+334,I,Sam George,https://www.samgeorge.co/,portfolio
+335,I,Jonas Brinkhoff,https://www.jonasbrinkhoff.com/,portfolio
+336,I,Stewart & Partners,https://www.stewartpartners.studio/,portfolio
+337,I,Mike van der Sanden,https://mikevandersanden.com/,portfolio
+338,I,Jeton,https://www.jeton.com/,product
+339,I,Deserve Studio,https://deserve.studio/,brand
+340,I,Grace Brigade,https://www.gracebrigade.com/,brand
+341,I,TUSARO Studio,https://www.tusaro.studio/,brand
+342,I,Frost*,https://frostcollective.com/,brand
+343,I,Motto,https://wearemotto.com/,brand
+344,I,Studio Dado,https://www.studiodado.com/,brand
+345,I,Forty Eight Point One,https://www.fortyeight.one/,brand
+346,I,Meaning Ltd.,https://meaning.company/,brand
+347,I,Davide Baratta,https://www.davidebaratta.com/,portfolio
+348,I,Jack Theobald,https://jacktheobald.com/,portfolio
+349,I,Boris Verks,https://www.borisverks.com/,portfolio
+350,I,Studiokay,https://www.studiokay.com.au/,portfolio
+351,I,Sneha Sankar,https://snehasanks.com/,portfolio
+352,J,Rachel Chen,https://www.rachelchen.tech/,portfolio
+353,J,Ramyatara Mullapudi,https://ramyatara.com/,portfolio
+354,J,David Rinman,https://www.davidrinman.com/,portfolio
+355,J,Talk to Dasha,https://www.talktodasha.com/,portfolio
+356,J,Chris Fairchild,https://chrisfairchild.co/,portfolio
+357,J,Made With Gsap,https://madewithgsap.com/,product
+358,J,Merus,https://www.merus1894.com/,product
+359,J,Supercommon Systems,https://supercommon.systems/,product
+360,J,Upstatement,https://upstatement.com/,brand
+361,J,Form&Fun,https://www.formandfun.co/,brand
+362,J,Aino,https://aino.agency/,brand
+363,J,Aaron Poe,https://aaronpoeandco.com/,portfolio
+364,J,Jakub Zeg,https://www.zegzulka.com/,portfolio
+365,J,Anatoly Ivanov,https://anatoly.design/,portfolio
+366,J,Vlad Zaporozhskyi,https://www.zapovlad.com/,portfolio
+367,J,Mikki Sindhunata,https://mikkisindhunata.com/,portfolio
+368,J,Carl Beaverson,https://carlbeaverson.com/,portfolio
+369,J,Human Voice Over,https://www.humanvoiceover.com/,product
+370,J,CS Transformation Report,https://transformation.intercom.com/,product
+371,J,Trawelt,https://www.trawelt.com/,product
+372,J,Frames,https://withframes.com/,product
+373,J,EQ Lab,https://eqlab.io/,brand
+374,J,CMD+B,https://www.cmdb.agency/,brand
+375,J,Roman Tesliuk,https://pixelwrld.co/,portfolio
+376,J,carlhauser,https://www.carlhauser.com/,portfolio
+377,J,Tom Parkes,https://www.tparkes.com/,portfolio
+378,J,Cohere,https://cohere.com/,product
+379,J,Contra,https://contra.com/,product
+380,J,Qatalog,https://qatalog.com/,product
+381,J,Modulify,https://modulify.ai/,brand
+382,J,Synthesis,https://www.synthesis.partners/,brand
+383,J,Websites of the Year,https://readymag.com/websites-of-the-year,editorial
+384,J,Pontera,https://www.pontera.com/,product
+385,J,OneLeft,https://oneleft.co/,brand
+386,J,Refresh Studio,https://www.ctrlr.studio/,brand
+387,J,Lazy Sundays,https://www.lazysundays.studio/,brand
+388,J,Design Business Company,https://dbco.online/,brand
+389,J,Gulp Studio,https://www.gulpstudio.com/,portfolio
+390,J,Aaron Rolston,https://aaronrolston.com/,portfolio
+391,K,Blunarova,https://www.blunarova.com/,portfolio
+392,K,Bradley Ziffer,https://bradleyziffer.com/,portfolio
+393,K,Marco Almeida,https://www.aboutmarco.com/,portfolio
+394,K,Elvin Hu,https://www.elvinhu.com/,portfolio
+395,K,Dan Tase,https://www.dantase.com/,portfolio
+396,K,Repponen,https://repponen.com/,portfolio
+397,K,General Dental,https://www.generaldental.ca/,product
+398,K,Echofi,https://echofi-bp.webflow.io/,product
+399,K,Pattern Breaking,https://patternbreak.ing/,brand
+400,K,Emily Durham,https://emilydurham.org/,portfolio
+401,K,Mymind,https://mymind.com/,product
+402,K,Annnimate,https://www.annnimate.com/,product
+403,K,Precious,https://www.workbyprecious.com/,brand
+404,K,Nice People,https://nicepeople.com/,brand
+405,K,Primary Studio,https://www.primary.studio/,brand
+406,K,Bakken & Bæck,https://bakkenbaeck.com/,brand
+407,K,ChatLabs,https://chatlabs.com/,product
+408,K,VALIENTE®,https://valientebrands.com/,brand
+409,K,New Studio,https://www.new.studio/,brand
+410,K,Delcio Designs,https://www.delciodesigns.com/,portfolio
+411,K,Amna Javed,https://amnajaved.com/,portfolio
+412,K,Lift Type,https://www.lift-type.fr/,portfolio
+413,K,288 4th Ave,https://288bk.com/,product
+414,K,Integrated Biosciences,https://integratedbiosciences.com/,product
+415,K,Paradigm,https://www.paradigmai.com/,product
+416,K,Open Purpose,https://openpurpose.com/,brand
+417,K,AREA 17,https://area17.com/,brand
+418,K,Wine Diplomacy,https://wine-diplomacy.ro/,product
+419,K,SERIOUS.BUSINESS,https://serious.business/,brand
+420,K,Lorenzo Cabra,https://lorenzocabra.xyz/,portfolio
+421,K,Descript,https://www.descript.com/,product
+422,K,Liquidity,https://www.liquidity.com/,product
+423,K,Peec AI,https://peec.ai/,product
+424,K,Murmure,https://murmure.me/,brand
+425,K,WaxyWeb,https://www.waxyweb.agency/,brand
+426,K,Sharp Type,https://www.sharptype.co/,product
+427,K,ChatGPT Atlas,https://chatgpt.com/atlas,product
+428,K,Savor,https://www.savor.it/,product
+429,K,L'Étude,https://letude.group/,brand
+430,L,Elegant Seagulls,https://www.elegantseagulls.com/,brand
+431,L,Daniella Marynova,https://hellodani.co/,portfolio
+432,L,Semplice V7,https://www.semplice.com/v7,product
+433,L,Control,https://cntrl.site/,product
+434,L,Krea,https://www.krea.ai/,product
+435,L,Ona,https://ona.com/,product
+436,L,Radial,https://radial.org/,product
+437,L,Alma,https://www.alma.food/,product
+438,L,Zig Zag Creative,https://www.zigzagcreative.co/,brand
+439,L,Pacer,https://www.pacer.studio/,brand
+440,L,Valentin,https://www.heyvalentin.club/,portfolio
+441,L,Studio Jud,https://studiojud.com/,product
+442,L,Flexion Robotics,https://flexion.ai/,product
+443,L,Spaces,https://spaces.is/,product
+444,L,Family,https://family.co/,product
+445,L,Gosteli-Archiv,https://www.gosteli-archiv.ch/en,editorial
+446,L,Caleomag,https://www.caleomag.com/,editorial
+447,L,Coinsetters,https://www.coinsetters.io/,brand
+448,L,Aside,https://aside.com/,product
+449,L,Etched,https://www.etched.com/,product
+450,L,Canopy,https://canopyseo.com/,product
+451,L,Burak Başcı,https://burakbasci.com/,portfolio
+452,L,Zerodois,https://zerodois.com/,ecommerce
+453,L,Daydream 1820,https://daydream1820.com/en,ecommerce
+454,L,Potion,https://mixpotion.co/,ecommerce
+455,L,Litebox,https://litebox.ai/,brand
+456,L,Illo,https://illo.tv/,brand
+457,L,Pitch-Works,https://pitch.works/,brand
+458,L,Holland Design,https://www.hollanddesign.ca/,brand
+459,L,Self Aware,https://selfaware.studio/,brand
+460,L,North,https://www.northmail.app/,product
+461,L,Menkind,https://menkind.co/en,product
+462,L,Autonomous,https://becomeautonomous.com/,product
+463,L,Round,https://www.round.ai/,product
+464,L,Maben,https://maben.com.au/,brand
+465,L,Walkie,https://walkie.b150.ai/,product
+466,L,Billow,https://www.billow.so/,product
+467,L,Supaste,https://supaste.com/,product
+468,L,Airmee,https://www.airmee.com/en,product
+469,M,Chatbase,https://www.chatbase.co/,product
+470,M,Bland AI,https://www.bland.ai/,product
+471,M,THE DEEP END,https://thedeepend.space/,product
+472,M,Prime Intellect,https://www.primeintellect.ai/,product
+473,M,Rise at Seven,https://riseatseven.com/,brand
+474,M,Spencer Lowell,https://www.spencerlowell.com/,portfolio
+475,M,Relocate Now,https://www.relocatenow.io/,product
+476,M,Lattice,https://lattice.com/,product
+477,M,Lando Norris,https://landonorris.com/,product
+478,M,Sendr,https://sendr.ai/,product
+479,M,Zamp,https://zamp.com/,product
+480,M,Lovi,https://lovi.care/,product
+481,M,Talent Solutions,https://www.colejames.io/,brand
+482,M,B150,https://b150.ai/,product
+483,M,Primer,https://primer.com/,product
+484,M,Clockout,https://goclockout.app/,product
+485,M,HeyClicky,https://www.heyclicky.com/,product
+486,M,Artem Shcherban,https://artemshcherban.com/,portfolio
+487,M,Eduardo Hernandez,https://eduardo.design/,portfolio
+488,M,re_,https://regrocery.co/,ecommerce
+489,M,Avara,https://avara.xyz/,landing
+490,M,AngelList,https://www.angellist.com/,product
+491,M,Plasticity,https://www.plasticity.xyz/,product
+492,M,Canals and Windmills,https://canalsandwindmills.com/,product
+493,M,Visitors,https://visitors.now/,product
+494,M,Work with Island,https://www.workwithisland.com/en,product
+495,M,GATZARA Studio,https://gatzara.studio/,brand
+496,M,Good Fella,https://good-fella.com/,brand
+497,M,Cipher,https://cipherdigital.com/,brand
+498,M,Poch Studio,https://poch.studio/,brand
+499,M,Awais Razzaque,https://www.awaisrazzaque.com/,portfolio
+500,M,Elapse,https://www.elapse.ai/,landing
+501,M,Droplette,https://www.droplette.app/,landing
+502,M,The Equity Fund,https://theequityfund.org/,product
+503,M,Cyphr,https://www.cyphr.studio/,product
+504,M,Kinhive,https://kinhive.com/,product
+505,M,WA Solutions,https://www.wasolutions.com/,product
+506,M,ONCE,https://once.com/,product
+507,N,Noah Stokes,https://noahstokes.com/,product
+508,N,Outchat,https://www.outchat.ai/,product
+509,N,Heynds,https://www.heynds.com/en,product
+510,N,Halaska,https://halaskastudio.com/,brand
+511,N,Griflan,https://griflan.com/,brand
+512,N,Byld,https://www.byld.dev/,brand
+513,N,Samuel Scalzo,https://www.scalzodesign.be/,portfolio
+514,N,Elliott Mangham,https://elliott.mangham.dev/,portfolio
+515,N,Polar,https://polar.sh/,product
+516,N,Anime.js,https://animejs.com/,product
+517,N,Windsurf,https://windsurf.com/,product
+518,N,Waabi,https://waabi.ai/,product
+519,N,time2book·me,https://www.time2book.me/,product
+520,N,Parloa,https://www.parloa.com/,product
+521,N,Summation,https://www.summation.com/,product
+522,N,Claude,https://claude.com/product/overview,product
+523,N,Dayos,https://www.dayos.com/,product
+524,N,Weav,https://weav.com/,product
+525,N,Felix,https://felix.so/,product
+526,N,Human Futures,https://humanfutures.com/,brand
+527,N,REF,https://ref.digital/,brand
+528,N,ATOM63,https://atom63.io/,portfolio
+529,N,Patch,https://www.patch.io/,product
+530,N,Jasper,https://www.jasper.ai/,product
+531,N,Capchase,https://www.capchase.com/,product
+532,N,Roxoseco Rural,https://www.roxoseco.com/,product
+533,N,HIFI,https://www.hifibridge.com/,product
+534,N,Lens,https://lens.xyz/,product
+535,N,Nominal,https://nominal.io/,product
+536,N,Stacker,https://stackerhq.com/,product
+537,N,Qatchup,https://www.qatchup.com/,product
+538,N,Span,https://www.span.app/,product
+539,N,Ditto,https://www.dittowords.com/,product
+540,N,basement.studio,https://basement.studio/,brand
+541,N,Adnaut,https://www.adnaut.digital/,brand
+542,N,Studio Almond,https://www.almond.studio/,brand
+543,N,Eliot Besson,https://www.eliotbesson.com/,portfolio
+544,N,Click Therapeutics,https://www.clicktherapeutics.com/,product
+545,O,Caldera,https://caldera.xyz/,product
+546,O,Miter,https://www.miter.com/,product
+547,O,GlowGuide,https://www.glowguide.com/,product
+548,O,Ramp Accounts Payable,https://ramp.com/accounts-payable,product
+549,O,Rekord,https://www.rekordsoftware.com/,product
+550,O,Wabi,https://wabi.ai/,product
+551,O,LlamaIndex,https://www.llamaindex.ai/,product
+552,O,Your Creative,https://yourcreative.com.au/,brand
+553,O,Yianni Mathioudakis,https://www.yiannifive.com/,portfolio
+554,O,Pin,https://www.pin.com/,product
+555,O,Linear,https://linear.app/,product
+556,O,Diagram,https://diagram.com/,product
+557,O,Agronomy Workshop,https://agronomywork.shop/,ecommerce
+558,O,Kalstore®,https://kal-store.com/,ecommerce
+559,O,Shapes,https://www.shapes.gallery/,editorial
+560,O,No-Code Supply Co,https://www.nocodesupply.co/,editorial
+561,O,Pirate Wires,https://www.piratewires.com/,editorial
+562,O,Kindsight,https://kindsight.io/,product
+563,O,Hurry Up & Have Fun,https://www.hurryupandhavefun.com/,product
+564,O,Sequence Collect,https://www.sequencecollect.com/,product
+565,O,Lightfield,https://lightfield.app/,product
+566,O,Cursor,https://cursor.com/,product
+567,O,Cofounder,https://cofounder.co/,product
+568,O,Shawn Lukas,https://shawnlukas.com/,portfolio
+569,O,Jim Schachterle,https://jschachterle.com/,portfolio
+570,O,Hen,https://hen-ry.com/,portfolio
+571,O,AirPods Pro 3,https://www.apple.com/airpods-pro,ecommerce
+572,O,Curated Supply,https://curated.supply/,ecommerce
+573,O,Junction,https://www.junction.com/,product
+574,O,Parallel,https://parallel.ai/,product
+575,O,Duna,https://duna.com/,product
+576,O,Gradient Labs,https://gradient-labs.ai/,product
+577,O,Paraform,https://www.paraform.com/,product
+578,O,Customer.io,https://customer.io/,product
+579,O,The Stacked Store,https://stackedstore.com/,ecommerce
+580,O,Arturel,https://arturel.com/,ecommerce
+581,O,OEM,https://oem.care/,ecommerce
+582,O,Recess,https://ourrecess.com/,ecommerce
+583,P,hers,https://www.forhers.com/,ecommerce
+584,P,Endex,https://endex.ai/,product
+585,P,Basewell,https://www.basewell.com/,product
+586,P,DICE,https://dice.fm/,product
+587,P,Penny Pension,https://pennypension.com/,product
+588,P,Devouring Details,https://devouringdetails.com/,product
+589,P,ClickUp,https://clickup.com/,product
+590,P,Helio,https://helio.cloud/,product
+591,P,Frontify,https://www.frontify.com/en,product
+592,P,Reframed,https://reframedbrand.com/,ecommerce
+593,P,Causal,https://www.causal.app/,product
+594,P,Outseta,https://www.outseta.com/,product
+595,P,Hypra,https://hypra.studio/,product
+596,P,Glide,https://www.glideapps.com/,product
+597,P,Finta,https://www.finta.com/,product
+598,P,Superlocal,https://superlocaldesign.com/,product
+599,P,Persephone,https://persephone.bio/,product
+600,P,Zapier,https://zapier.com/,product
+601,P,G . F Smith,https://www.gfsmith.com/,product
+602,P,Circula,https://www.circula.com/en,product
+603,P,Muse,https://www.musesoftware.ai/,product
+604,P,Aptos,https://aptosnetwork.com/,product
+605,P,Luffu,https://www.luffu.com/,product
+606,P,Spellbook,https://www.spellbook.legal/,product
+607,P,Stripe Sessions,https://stripesessions.com/,product
+608,P,Bird,https://bird.com/,product
+609,P,TwelveLabs,https://www.twelvelabs.io/,product
+610,P,Tally,https://tally.so/,product
+611,P,GoCardless,https://gocardless.com/,product
+612,P,Maggie App,https://maggie-app.com/,product
+613,P,Voy,https://www.joinvoy.com/,product
+614,P,Cofactr,https://www.cofactr.com/,product
+615,P,LocalCan,https://www.localcan.com/,product
+616,P,Willis Tower,https://www.willistower.com/,product
+617,P,Savvy cal,https://savvycal.com/,product
+618,P,Offgrid,https://www.offgrid-design.co/,product
+619,P,Atomize,https://atomizedesign.com/,product
+620,P,Partech,https://partechpartners.com/,product
+621,Q,Bounti,https://bounti.co/,product
+622,Q,Amie,https://amie.so/,product
+623,Q,Jitter,https://jitter.video/,product
+624,Q,Ditto,https://www.trustditto.com/,product
+625,Q,Quin,https://www.heyquin.io/,product
+626,Q,Carrot,https://carrot.tech/,product
+627,Q,The Finnish Institute in the UK and Ireland,https://fininst.uk/,product
+628,Q,Agentcard,https://www.agentcard.sh/,product
+629,Q,Atlassian Teamwork Graph,https://teamworkgraph.com/,product
+630,Q,Armory,https://www.armory.in/,product
+631,Q,NoGood,https://nogood.studio/,portfolio
+632,Q,Touchy Coffee,https://touchycoffee.com/,ecommerce
+633,Q,Eislab,https://eis-lab.de/en-us,ecommerce
+634,Q,Dirty Vine,https://dirtyvine.com/,ecommerce
+635,Q,Atlas,https://atlascard.com/,product
+636,Q,Wittl,https://www.wittl.co/,product
+637,Q,Runway,https://runwayml.com/,product
+638,Q,incident.io,https://incident.io/,product
+639,Q,Valley,https://joinvalley.co/,product
+640,Q,Mercury,https://mercury.com/,product
+641,Q,The Webflow Way,https://webflow.com/webflow-way,product
+642,Q,Prime UI,https://primeui.com/,product
+643,Q,Overmind,https://www.overmindlab.ai/,product
+644,Q,XBOW,https://xbow.com/,product
+645,Q,Wireframe,https://wireframe.co/,brand
+646,Q,Shape,https://madebyshape.co.uk/,brand
+647,Q,YMU,https://www.ymugroup.com/,brand
+648,Q,Uttkarsh Mandaknale,https://www.uttkarsh.design/,portfolio
+649,Q,Tola Invoice,https://invoice.tolahq.com/,landing
+650,Q,Planhat,https://www.planhat.com/keynote,product
+651,Q,ElevenLabs,https://elevenlabs.io/,product
+652,Q,OnRamp 2025,https://events.ramp.com/onrampnewyork2025,product
+653,Q,Maito,https://getmaito.com/,product
+654,Q,Cure51,https://www.cure51.com/,product
+655,Q,Noramble,https://noramble.co.uk/,brand
+656,Q,Iventions,https://iventions.com/,brand
+657,Q,Studio Meraki,https://www.merakidigitalstudio.com/,brand
+658,Q,Konpo,https://www.konpo.studio/,brand
+659,R,Ayda Oz,https://www.aydaoz.co/,portfolio
+660,R,Fairgrounds,https://www.visitfairgrounds.com/,ecommerce
+661,R,Arrival,https://arrival.com/,product
+662,R,Sana,https://sanalabs.com/,product
+663,R,Metaview,https://www.metaview.ai/,product
+664,R,Runner,https://runner.now/,product
+665,R,Unkey,https://www.unkey.com/,product
+666,R,Clarasight,https://www.clarasight.com/,product
+667,R,Elevant,https://elevant.com.au/,product
+668,R,Giga,https://giga.ai/,product
+669,R,LangChain,https://www.langchain.com/,product
+670,R,Good Friends,https://goodfriendsagency.com/,brand
+671,R,Arta Labs,https://www.artalabs.com/,brand
+672,R,Interfacer,https://interfacer.co/,brand
+673,R,SEATED,https://seated.nyc/,brand
+674,R,Cappen,https://cappen.com/,brand
+675,R,Igma,https://igma.im/,portfolio
+676,R,Notion,https://www.notion.com/,product
+677,R,Figma Config,https://config.figma.com/,product
+678,R,Airloom,https://www.airloom.energy/,product
+679,R,Dia,https://www.diabrowser.com/,product
+680,R,Avax.network,https://www.avax.network/,product
+681,R,Truus,https://truus.co/,brand
+682,R,Early Works,https://www.early.works/,brand
+683,R,NewWorld,https://newworld.inc/,brand
+684,R,Jords+Co,https://www.jords.co.uk/,brand
+685,R,Jordan Jenkins,https://www.jkane.co/,portfolio
+686,R,Eduard Bodak,https://www.eduardbodak.com/,portfolio
+687,R,Fabric,https://fabric.so/,product
+688,R,Stripe Dev,https://stripe.dev/,product
+689,R,OFFF 2025,https://www.offf.barcelona/,product
+690,R,Reown,https://reown.com/,product
+691,R,MMI Festival,https://festival.mmilens.fr/,product
+692,R,OWO,https://owo.app/,product
+693,R,V7 Go,https://www.v7labs.com/,product
+694,R,Lovart,https://www.lovart.ai/,product
+695,R,HiPortfolio,https://hiportfolio.co/,brand
+696,R,Juice,https://www.juice.agency/,brand
+697,S,Quartzo Studio,https://quartzo.studio/en,brand
+698,S,CRUSH STUDIO,https://crush.enterprises/,brand
+699,S,ONBOX,https://www.onboxcreative.com/,brand
+700,S,Lué Studio®,https://lue.studio/,brand
+701,S,Muse Design Studio,https://musestudio.uk/,brand
+702,S,ANALOGUE,https://madebyanalogue.co.uk/,brand
+703,S,CASSETTE,https://www.cassettemusic.com/,brand
+704,S,Haptic,https://haptic.studio/,brand
+705,S,Rauno Freiberg,https://rauno.me/,portfolio
+706,S,Character,https://www.character.studio/,portfolio
+707,S,Mat Voyce,https://matvoyce.tv/,portfolio
+708,S,Gev Design,https://www.gev.design/,portfolio
+709,S,Spencer Gabor,https://spencergabor.work/,portfolio
+710,S,Los York,https://losyork.tv/,portfolio
+711,S,Campsite,https://www.campsite.co/,product
+712,S,Marathon,https://www.onmarathon.com/,product
+713,S,Flow Computing,https://flow-computing.com/,product
+714,S,Lithic,https://www.lithic.com/,product
+715,S,Agora,https://www.agora.xyz/,product
+716,S,Mobbin,https://mobbin.com/,product
+717,S,Notion,https://www.notion.so/,product
+718,S,Parthean,https://www.parthean.com/,product
+719,S,Folk,https://www.folk.app/,product
+720,S,Attio,https://attio.com/,product
+721,S,Refrakt,https://refrakt.app/,product
+722,S,Onfolk,https://www.onfolk.com/,product
+723,S,Dare To Share,https://www.daretoshare.design/,product
+724,S,Tella,https://www.tella.tv/,product
+725,S,Monad,https://www.monad.com/,product
+726,S,Macfolio,https://macfolio.com/,editorial
+727,S,Flim,https://flim.ai/,editorial
+728,S,Not a Number,https://www.nan.fyi/,editorial
+729,S,The Bottom Line,https://squareup.com/us/en/the-bottom-line,editorial
+730,S,Everyday Finds,https://everydayfinds.com/,editorial
+731,S,Uniswap,https://app.uniswap.org/,product
+732,S,Hashnode,https://hashnode.com/,product
+733,S,Abode,https://www.abode.space/,product
+734,S,Navigate,https://nvg8.io/,product
+735,T,Huddlekit,https://huddlekit.com/,product
+736,T,Sanity,https://www.sanity.io/,product
+737,T,Nopan,https://www.nopan.com/,product
+738,T,Granola,https://www.granola.ai/,product
+739,T,Neon,https://neon.com/,product
+740,T,SPACING,https://www.spacing.co/,brand
+741,T,The Line Studio,https://thelinestudio.com/,brand
+742,T,Airborne,https://www.airborne.studio/,brand
+743,T,Bureau for Visual Affairs,https://www.bureau-va.com/,brand
+744,T,Hyperlink,https://www.hyperlinknyc.com/,brand
+745,T,Robin Spielmann,https://www.iamrob.in/,portfolio
+746,T,Eva Sánchez,https://evasanchez.info/,portfolio
+747,T,Gabriel Valdivia,https://www.gabrielvaldivia.com/,portfolio
+748,T,Matic,https://maticrobots.com/,ecommerce
+749,T,The Unwash,https://theunwash.com/,ecommerce
+750,T,Alone in New York,https://aloneinnewyork.com/,landing
+751,T,Linktree,https://linktr.ee/,product
+752,T,Eco,https://eco.com/,product
+753,T,Plumb,https://useplumb.com/,product
+754,T,Gilion,https://www.gilion.com/,product
+755,T,David AI,https://www.withdavid.ai/,product
+756,T,Detail,https://detail.dev/,product
+757,T,Hobbes,https://hihobbes.com/,product
+758,T,Baba,https://www.callbaba.com/,product
+759,T,Dovetail,https://dovetail.com/,product
+760,T,Oddit,https://www.oddit.co/,brand
+761,T,Mangopay,https://mangopay.com/,product
+762,T,Chargetrip,https://www.chargetrip.com/,product
+763,T,Ada,https://www.ada.cx/,product
+764,T,Passionfroot,https://www.passionfroot.me/,product
+765,T,Recraft,https://www.recraft.ai/,product
+766,T,Cartesia Sonic-3,https://cartesia.ai/sonic,product
+767,T,Sequence,https://www.sequencehq.com/,product
+768,T,Osmo,https://www.osmo.supply/,product
+769,T,Old Friends,https://www.oldfriends.studio/,brand
+770,T,Fraiche,https://www.fraichedesignthinking.com/,brand
+771,T,Fictional,https://fictional-typeface.com/,product
+772,T,Vibrant,https://www.vibrantpractice.com/,product
+773,U,Aboard,https://www.aboardhr.com/,product
+774,U,Telescope,https://telescope.fyi/,product
+775,U,Superhuman,https://superhuman.com/,product
+776,U,Localyzer,https://www.localyzer.io/,product
+777,U,Reducto,https://reducto.ai/,product
+778,U,Rootly,https://rootly.com/,product
+779,U,State of Create,https://stateofcreate.co/,product
+780,U,XMCP,https://xmcp.dev/,product
+781,U,Chutes,https://chutes.ai/,product
+782,U,Porta,https://portalgaming.com/,product
+783,U,Equals,https://equals.com/,product
+784,U,Ctrl,https://ctrl.xyz/,product
+785,U,Advis Law,https://advishawaii.com/,product
+786,U,Dria Ventures,https://www.dria.com/,product
+787,U,ai.work,https://www.ai.work/,product
+788,U,Airtree,https://www.airtree.vc/,product
+789,U,Summer Smash Tennis,https://summersmashtennis.ca/,product
+790,U,Atlas,https://www.atlas.xyz/,product
+791,U,Garden,https://www.gardenintel.com/,product
+792,U,Rollups,https://rollups.com/,product
+793,U,Privy,https://www.privy.io/,product
+794,U,Fernand,https://getfernand.com/,product
+795,U,WeNatal,https://wenatal.com/,product
+796,U,Mintlify,https://www.mintlify.com/,product
+797,U,Daybridge,https://daybridge.com/,product
+798,U,Airspace,https://airspace.airtable.com/,product
+799,U,Homestack,https://www.homestack.com/,product
+800,U,Tinyman,https://tinyman.org/,product
+801,U,Figma,https://www.figma.com/,product
+802,U,Limitless,https://www.limitless.ai/,product
+803,U,Givingli,https://www.givingli.com/,product
+804,U,SuperHi,https://www.superhi.com/,product
+805,U,The Leap,https://www.theleap.co/,product
+806,U,Lavender,https://www.lavender.ai/,product
+807,U,Venture Climate Alliance,https://www.ventureclimatealliance.org/,product
+808,U,Primer,https://primer.io/,product
+809,U,Tines,https://www.tines.com/,product
+810,U,Groove,https://www.groove.ooo/,product
+811,V,Beard Meats Food,https://www.beardmeatsfood.co.uk/,editorial
+812,V,Nory,https://www.nory.ai/,product
+813,V,Assurestor,https://www.assurestor.com/,product
+814,V,Factory,https://factory.ai/,product
+815,V,Central,https://centralhq.com/,product
+816,V,Webflow,https://try.webflow.com/rwb0ge3b7lth,product
+817,V,Buzz,https://buzz.xyz/,product
+818,V,Permian,https://permianworld.com/,ecommerce
+819,V,Leel,https://www.leel.in/,landing
+820,V,More Nutrition,https://more-nutrition.webflow.io/,product
+821,V,Pixelier Mache,https://www.pixeliermache.com/,ecommerce
+822,V,Langbase,https://langbase.com/,landing
+823,V,Town,https://www.town.com/,product
+824,V,Liveblocks,https://liveblocks.io/,product
+825,V,Runway,https://runway.com/,product
+826,V,Solflare,https://www.solflare.com/,product
+827,V,Dawn,https://joindawn.com/,product
+828,V,PubQ,https://pubq.se/,product
+829,V,Vartas,https://vartas.com.au/,product
+830,V,Payman,https://paymanai.com/,product
+831,V,Speakeasy,https://www.speakeasy.com/,product
+832,V,Flank,https://www.flank.ai/,product
+833,V,Intercom Design,https://intercom.design/,product
+834,V,Orbi,https://heyorbi.com/,product
+835,V,Coidar,https://www.coidar.com/,product
+836,V,Realm,https://www.withrealm.com/,product
+837,V,Bevel,https://www.bevel.health/,product
+838,V,Poolside,https://poolside.ai/,product
+839,V,Firsty,https://www.firsty.app/,product
+840,V,Playbook,https://www.consumerapp.studio/,product
+841,V,Decimal AI,https://decimal.app/,product
+842,V,Propane,https://www.usepropane.ai/,product
+843,V,Deel,https://www.deel.com/,product
+844,V,Contentsquare,https://contentsquare.com/,product
+845,V,The Uncommon Founder,https://www.theuncommonfounder.com/,product
+846,V,Blackalgo,https://blackalgo.com/,product
+847,V,Semrush,https://www.semrush.com/,product
+848,V,Navattic,https://www.navattic.com/,product
+849,W,The Frequency Architect,https://www.thefrequencyarchitect.co/,product
+850,W,Maple,https://www.maple.inc/,product
+851,W,UHF,https://getuhf.com/,product
+852,W,Cluster,https://getcluster.ai/,product
+853,W,Lightdash,https://www.lightdash.com/,product
+854,W,Format,https://useformat.ai/,product
+855,W,Zudo,https://www.zudo.amsterdam/,product
+856,W,Handshake,https://joinhandshake.com/,product
+857,W,Frame.io,https://frame.io/,product
+858,W,Inertia.js,https://inertiajs.com/,product
+859,W,Playground,https://www.tryplayground.com/,product
+860,W,Isidor,https://isidor.ai/,product
+861,W,Invisible Technologies,https://invisibletech.ai/,product
+862,W,Wist,https://www.wist.chat/,product
+863,W,Relace,https://relace.ai/,product
+864,W,MonoDesk,https://www.monodesk.com/,product
+865,W,Chainlink,https://chain.link/backbone,product
+866,W,Ameba,https://www.ameba.ai/,product
+867,W,Shiori,https://www.shiori.sh/,product
+868,W,Evervault,https://evervault.com/,product
+869,W,Droplist,https://dropli.st/,product
+870,W,ToDesktop,https://www.todesktop.com/,product
+871,W,Adaptive ML,https://www.adaptive-ml.com/,product
+872,W,GitBook,https://www.gitbook.com/,product
+873,W,Reevo,https://reevo.ai/,product
+874,W,Slush,https://slush.app/,product
+875,W,Stripe,https://stripe.com/,product
+876,W,Paper,https://paper.design/,product
+877,W,Ankar AI,https://ankar.ai/,product
+878,W,Daylit,https://www.daylit.com/,product
+879,W,Nuraform,https://www.nuraform.com/,product
+880,W,Future,https://future.co/,product
+881,W,Teero,https://www.teero.com/,product
+882,W,Désourdy,https://www.constructiondesourdy.com/en,product
+883,W,Eat Real Food,https://realfood.gov/,product
+884,W,Until,https://www.untillabs.com/,product
+885,W,Krida,https://www.krida.ai/,product
+886,W,Arthur,https://www.arthur.ai/,product
+887,X,Tiempo,https://www.tiempo.fitness/,product
+888,X,Height,https://height.app/,product
+889,X,Corcel,https://corcel.io/,product
+890,X,Profound,https://www.tryprofound.com/,product
+891,X,Karumi AI,https://www.karumi.ai/,product
+892,X,Clay,https://clay.earth/,product
+893,X,Tabs,https://www.tabs.com/,product
+894,X,Tesoro,https://www.tesoroxp.com/,product
+895,X,Humble,https://humbleops.ai/,product
+896,X,Momotaro,https://momotaro.app/,product
+897,X,Trust Keith,https://www.trustkeith.co/,product
+898,X,Kudanil Explorer,https://www.kudanil.com/,product
+899,X,Kinsta,https://kinsta.com/,product
+900,X,Basedash,https://www.basedash.com/,product
+901,X,ReOrc,https://reorc.com/,product
+902,X,Blacksmith,https://www.blacksmith.sh/,product
+903,X,Unlearn,https://www.unlearn.ai/,product
+904,X,Daylight,https://daylightcomputer.com/,product
+905,X,SLR Consulting,https://www.slrconsulting.com/,product
+906,X,Roadmap,https://www.gotroadmap.com/,product
+907,X,Modal,https://modal.com/,product
+908,X,Plain,https://www.plain.com/,product
+909,X,Oxide,https://oxide.computer/,product
+910,X,Spot,https://www.getspot.com/,product
+911,X,Altius,https://www.altiuslabs.xyz/,product
+912,X,Reshaped,https://reshaped.so/,product
+913,X,Giga,https://gigaml.com/,product
+914,X,Origin,https://useorigin.com/,product
+915,X,Walrus,https://www.walrus.xyz/,product
+916,X,Dub,https://dub.co/home,product
+917,X,Replit,https://replit.com/,product
+918,X,SayBriefly,https://saybriefly.com/,product
+919,X,Plot,https://www.plot.so/,product
+920,X,One Manor Place,https://omp.dentist/,product
+921,X,Better Stack,https://betterstack.com/,product
+922,X,Hyperbolic,https://www.hyperbolic.ai/,product
+923,X,Hume AI,https://www.hume.ai/,product
+924,X,Microsoft AI,https://microsoft.ai/,product
+925,Y,Flint,https://www.tryflint.com/,product
+926,Y,Workers Platform,https://workers.cloudflare.com/,product
+927,Y,Vite+,https://viteplus.dev/,product
+928,Y,Laravel Cloud,https://cloud.laravel.com/,product
+929,Y,Vision Trilingual School,https://ecolevision.com/en,product
+930,Y,Retool,https://retool.com/,product
+931,Y,Payload,https://payloadcms.com/,product
+932,Y,Shuttle,https://shuttle.zip/,product
+933,Y,Pipe,https://pipe.com/,product
+934,Y,Fabric,https://www.fabrichealth.com/,product
+935,Y,Raycast,https://www.raycast.com/,product
+936,Y,Artboard,https://artboard.studio/,product
+937,Y,Dimension,https://www.dimension.dev/,product
+938,Y,Wope,https://wope.com/,product
+939,Y,AuthKit,https://www.authkit.com/,product
+940,Y,Twingate,https://www.twingate.com/,product
+941,Y,Reflect,https://reflect.app/,product
+942,Y,GSAP,https://gsap.com/,product
+943,Y,Swim Club,https://swimclub.co/,ecommerce
+944,Y,Better Nights,https://www.betternights.com/,ecommerce
+945,Y,Every,https://every.to/,editorial
+946,Y,Tilt,https://tilt.com/,product
+947,Y,Essential,https://www.essential.com/,product
+948,Y,Geniestudio,https://geniestudio.app/,product
+949,Y,DeepJudge,https://www.deepjudge.ai/,product
+950,Y,Weavy,https://www.weavy.ai/,product
+951,Y,Arcade,https://www.arcade.software/,product
+952,Y,Pepette,https://www.pepette.co/,ecommerce
+953,Y,Dropbox Dash × McLaren F1,https://dash.dropbox.com/mclarenf1,landing
+954,Y,PrimeLink,https://www.primelink.io/,landing
+955,Y,Coherence,https://www.withcoherence.com/,landing
+956,Y,Keto,https://ketosoftware.com/,product
+957,Y,PlayerZero,https://playerzero.ai/,product
+958,Y,PostHog,https://posthog.com/,product
+959,Y,Tempo,https://tempo.xyz/,product
+960,Y,Operate,https://operate.so/,product
+961,Y,Tandem.bi,https://tandem.bi/,product
+962,Y,Shelby,https://shelby.xyz/,product
+963,Z,Wispr Flow,https://wisprflow.ai/,product
+964,Z,Swehl,https://swehl.com/,ecommerce
+965,Z,Quechua SS25 Lookbook,https://quechua-lookbook.com/ss25,ecommerce
+966,Z,Mother Root,https://www.motherroot.london/,ecommerce
+967,Z,The Department of Bed Intentions,https://bedintentions.com/,ecommerce
+968,Z,Firecrawl,https://www.firecrawl.dev/,product
+969,Z,TOP,https://top.co/,product
+970,Z,Best Friend Finance,https://www.bestfriend.finance/,product
+971,Z,Italic,https://italic.com/,ecommerce
+972,Z,Streamtime,https://streamtime.net/,product
+973,Z,Outtake,https://www.outtake.ai/,product
+974,Z,Headroom,https://headroom.com/,product
+975,Z,Composio,https://composio.dev/,product
+976,Z,Visual Electric,https://visualelectric.com/,product
+977,Z,Antimetal,https://antimetal.com/,product
+978,Z,Cap,https://cap.so/,product
+979,Z,Emily Lonetto,https://emilylonetto.com/,product
+980,Z,SuperHi.cv,https://www.superhi.cv/,product
+981,Z,Contractbook,https://contractbook.com/,product
+982,Z,Tars,https://tars.pro/,product
+983,Z,Joyful Health,https://www.joyfulhealth.io/,product
+984,Z,Human Native,https://www.humannative.ai/,product
+985,Z,Purpose Talent,https://www.purposetalent.xyz/,product
+986,Z,Distributional,https://www.distributional.com/,product
+987,Z,Gamma,https://gamma.app/,product
+988,Z,Cloudflare Agents,https://agents.cloudflare.com/,product
+989,Z,The Playa,https://www.theplaya.solutions/,product
+990,Z,Mural,https://www.mural.co/,product
+991,Z,Epidemic Sound,https://www.epidemicsound.com/,product
+992,Z,Rail,https://rail.io/,product
+993,Z,Steel,https://steel.dev/,product
+994,Z,Personio,https://www.personio.com/,product
+995,Z,TravelPerk,https://www.travelperk.com/,product
+996,Z,Apollo,https://www.apollo.io/,product
+997,Z,Kit,https://kit.com/,product
+998,Z,Adora,https://www.adora.so/,product
+999,Z,Carefree,https://carefreespace.org/,product
+1000,Z,Profluent,https://www.profluent.bio/,product
