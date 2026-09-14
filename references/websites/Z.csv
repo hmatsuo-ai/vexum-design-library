@@ -1,39 +1,77 @@
-priority,rank,name,url,focus
-963,Z,Wispr Flow,https://wisprflow.ai/,product
-964,Z,Swehl,https://swehl.com/,ecommerce
-965,Z,Quechua SS25 Lookbook,https://quechua-lookbook.com/ss25,ecommerce
-966,Z,Mother Root,https://www.motherroot.london/,ecommerce
-967,Z,The Department of Bed Intentions,https://bedintentions.com/,ecommerce
-968,Z,Firecrawl,https://www.firecrawl.dev/,product
-969,Z,TOP,https://top.co/,product
-970,Z,Best Friend Finance,https://www.bestfriend.finance/,product
-971,Z,Italic,https://italic.com/,ecommerce
-972,Z,Streamtime,https://streamtime.net/,product
-973,Z,Outtake,https://www.outtake.ai/,product
-974,Z,Headroom,https://headroom.com/,product
-975,Z,Composio,https://composio.dev/,product
-976,Z,Visual Electric,https://visualelectric.com/,product
-977,Z,Antimetal,https://antimetal.com/,product
-978,Z,Cap,https://cap.so/,product
-979,Z,Emily Lonetto,https://emilylonetto.com/,product
-980,Z,SuperHi.cv,https://www.superhi.cv/,product
-981,Z,Contractbook,https://contractbook.com/,product
-982,Z,Tars,https://tars.pro/,product
-983,Z,Joyful Health,https://www.joyfulhealth.io/,product
-984,Z,Human Native,https://www.humannative.ai/,product
-985,Z,Purpose Talent,https://www.purposetalent.xyz/,product
-986,Z,Distributional,https://www.distributional.com/,product
-987,Z,Gamma,https://gamma.app/,product
-988,Z,Cloudflare Agents,https://agents.cloudflare.com/,product
-989,Z,The Playa,https://www.theplaya.solutions/,product
-990,Z,Mural,https://www.mural.co/,product
-991,Z,Epidemic Sound,https://www.epidemicsound.com/,product
-992,Z,Rail,https://rail.io/,product
-993,Z,Steel,https://steel.dev/,product
-994,Z,Personio,https://www.personio.com/,product
-995,Z,TravelPerk,https://www.travelperk.com/,product
-996,Z,Apollo,https://www.apollo.io/,product
-997,Z,Kit,https://kit.com/,product
-998,Z,Adora,https://www.adora.so/,product
-999,Z,Carefree,https://carefreespace.org/,product
-1000,Z,Profluent,https://www.profluent.bio/,product
+priority,rank,name,url,focus,source,source_page
+1925,Z,Fabio Carretti - Portfolio,https://www.awwwards.com/sites/fabio-carretti-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1926,Z,Trip in the dark,https://www.awwwards.com/sites/trip-in-the-dark,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1927,Z,The St. Regis Venice Hotel,https://www.awwwards.com/sites/the-st-regis-venice-hotel,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1928,Z,Trevor Blount Pilates,https://www.awwwards.com/sites/trevor-blount-pilates,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1929,Z,AKARU,https://www.awwwards.com/sites/akaru-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1930,Z,SOS Violence Conjugale,https://www.awwwards.com/sites/sos-violence-conjugale,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1931,Z,Boundary Supply,https://www.awwwards.com/sites/boundary-supply,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1932,Z,Reform Collective,https://www.awwwards.com/sites/reform-collective-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1933,Z,Bruno Arizio – Portfolio,https://www.awwwards.com/sites/bruno-arizio-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1934,Z,Born & Bred,https://www.awwwards.com/sites/born-bred,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1935,Z,Google Pixel 4,https://www.awwwards.com/sites/google-pixel-4,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1936,Z,L'occitane: Seeds of dreams,https://www.awwwards.com/sites/loccitane-seeds-of-dreams,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1937,Z,PREVINT,https://www.awwwards.com/sites/prevint,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1938,Z,Northand,https://www.awwwards.com/sites/northand,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1939,Z,Noiz!,https://www.awwwards.com/sites/noiz,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1940,Z,Daphné Launay - Portfolio,https://www.awwwards.com/sites/daphne-launay-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1941,Z,andstudio,https://www.awwwards.com/sites/andstudio,brand,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1942,Z,Fishing the Feed,https://www.awwwards.com/sites/fishing-the-feed,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1943,Z,Beauvoir,https://www.awwwards.com/sites/beauvoir,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1944,Z,ITG,https://www.awwwards.com/sites/itg,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1945,Z,elium studio,https://www.awwwards.com/sites/elium-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1946,Z,D.POTFER STUDIO,https://www.awwwards.com/sites/d-potfer-studio,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1947,Z,Bruno Simon Portfolio,https://www.awwwards.com/sites/bruno-simon-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1948,Z,Castor & Pollux,https://www.awwwards.com/sites/castor-pollux-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1949,Z,Neuebel&Mark,https://www.awwwards.com/sites/neuebel-mark,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1950,Z,Fontsmith Variable Fonts,https://www.awwwards.com/sites/fontsmith-variable-fonts,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1951,Z,Misato town,https://www.awwwards.com/sites/misato-town,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1952,Z,Flavinsky,https://www.awwwards.com/sites/flavinsky,brand,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1953,Z,wecargo,https://www.awwwards.com/sites/wecargo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1954,Z,Binaryblocks.io,https://www.awwwards.com/sites/binaryblocks-io,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1955,Z,GaVKaG,https://www.awwwards.com/sites/gavkag,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1956,Z,Digital Design Days Festival,https://www.awwwards.com/sites/digital-design-days-festival,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1957,Z,Knives Out Official Movie Site,https://www.awwwards.com/sites/knives-out-official-movie-site,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1958,Z,Spatzek Studio,https://www.awwwards.com/sites/spatzek-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1959,Z,Interaction Design Lab Bern 19,https://www.awwwards.com/sites/interaction-design-lab-bern-19,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1960,Z,Soletanche Bachy experience,https://www.awwwards.com/sites/soletanche-bachy-experience,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1961,Z,Editorial New,https://www.awwwards.com/sites/editorial-new,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=81
+1962,Z,Minimal Wim,https://www.awwwards.com/sites/minimal-wim,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1963,Z,8 Design Trends by Red Collar,https://www.awwwards.com/sites/8-design-trends-by-red-collar,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1964,Z,Google Pixel Buds,https://www.awwwards.com/sites/google-pixel-buds-launch-page,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1965,Z,WebVR site for The White Tower,https://www.awwwards.com/sites/webvr-site-for-the-white-tower,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1966,Z,Composition 24,https://www.awwwards.com/sites/composition-24,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1967,Z,The New Company,https://www.awwwards.com/sites/the-new-company,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1968,Z,Laguta & Laguta,https://www.awwwards.com/sites/laguta-laguta,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1969,Z,Karel Komárek Family Fdn.,https://www.awwwards.com/sites/karel-komarek-family-fdn,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1970,Z,Nowy Teatr,https://www.awwwards.com/sites/nowy-teatr-site,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1971,Z,Discovery Land Company,https://www.awwwards.com/sites/discovery-land-company,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1972,Z,Wickret,https://www.awwwards.com/sites/wickret,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1973,Z,Meet your new Twitch,https://www.awwwards.com/sites/meet-your-new-twitch,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1974,Z,Lafaurie Paris,https://www.awwwards.com/sites/lafaurie-paris,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1975,Z,Cobo,https://www.awwwards.com/sites/cobo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1976,Z,"Waka Waka, Collection N01",https://www.awwwards.com/sites/waka-waka-collection-n01,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1977,Z,District2 Studio,https://www.awwwards.com/sites/district2-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1978,Z,Rogue Studio,https://www.awwwards.com/sites/rogue-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1979,Z,Marie Weber,https://www.awwwards.com/sites/marie-weber,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1980,Z,Red Edition,https://www.awwwards.com/sites/red-edition,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1981,Z,Wonderful Weekends,https://www.awwwards.com/sites/wonderful-weekends,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1982,Z,Hello Monday,https://www.awwwards.com/sites/hello-monday,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1983,Z,FILA Explore,https://www.awwwards.com/sites/fila-explore,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1984,Z,Jesus Is King,https://www.awwwards.com/sites/jesus-is-king,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1985,Z,eDesign Interactive,https://www.awwwards.com/sites/edesign-interactive,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1986,Z,Guide to Polish design,https://www.awwwards.com/sites/guide-to-polish-design,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1987,Z,2nd STREET USA,https://www.awwwards.com/sites/2nd-street-usa,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1988,Z,Zhenya Rynzhuk Folio 2019,https://www.awwwards.com/sites/zhenya-rynzhuk-folio-2019,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1989,Z,#24hourace,https://www.awwwards.com/sites/24hourace,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1990,Z,Active Theory v5,https://www.awwwards.com/sites/active-theory-v5,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1991,Z,Bravoure,https://www.awwwards.com/sites/digital-design-agency-bravoure,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1992,Z,Two Robbers,https://www.awwwards.com/sites/two-robbers,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+1993,Z,Déplacé Maison,https://www.awwwards.com/sites/deplace-maison,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1994,Z,Peter Lindbergh,https://www.awwwards.com/sites/peter-linbergh,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1995,Z,Millemann Wines,https://www.awwwards.com/sites/millemann-wines,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1996,Z,Plenaire,https://www.awwwards.com/sites/plenaire,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1997,Z,BBC: Real Happiness Project,https://www.awwwards.com/sites/bbc-real-happiness-project,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1998,Z,Nikolas Type,https://www.awwwards.com/sites/nikolas-type,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+1999,Z,Bon Iver Viisualiizer,https://www.awwwards.com/sites/bon-iver-visualizer,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83
+2000,Z,Design Embraced,https://www.awwwards.com/sites/design-embraced-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=83

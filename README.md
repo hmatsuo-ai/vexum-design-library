@@ -4,11 +4,11 @@ VEXUMでWebサイトやLP、教材、業務画面を設計するときに参照�
 
 ## Web reference ranking
 
-`references/websites/` に、実在するデザイン参考サイトを **1,000件** 保存します。
+`references/websites/` に、実在するデザイン参考サイトを **2,000件** 保存します。
 
-- **priority**: 1（最優先）〜1000
+- **priority**: 1（最優先）〜2000
 - **rank**: A（最優先）〜Z（相対的に低優先）の26段階
-- 1ランクあたり約38〜39件
+- 1ランクあたり約76〜77件
 - 同一サイトは原則1件に正規化
 - テンプレート販売ページ、スポンサー枠、閉鎖サイト、明らかな低品質サイトは除外
 
@@ -27,23 +27,28 @@ Aは「最初に見るべき」、Zは「用途が合えば参照する」とい
 
 ## Sources
 
-主な発見元は、A1 Gallery、Siteinspire、Awwwards等の公開デザインキュレーションです。リポジトリにはスクリーンショットや第三者の説明文を転載せず、公開サイトの名称・URLとVEXUM独自の優先順位のみを保存します。
+発見元は、A1 Gallery と Awwwards の公開デザインキュレーションです。リポジトリにはスクリーンショットや第三者の説明文を転載せず、公開サイトの名称・URL・参照元ページとVEXUM独自の優先順位のみを保存します。
 
 ## Structure
 
 ```text
 references/
-└── websites/
-    ├── A.csv
-    ├── B.csv
-    ├── ...
-    └── Z.csv
+├── websites/
+│   ├── all.csv
+│   ├── A.csv ... Z.csv
+│   └── metadata.json
+└── categories/
+    ├── motion.csv
+    ├── typography.csv
+    └── ...
 ```
 
 CSV schema:
 
 ```text
-priority,rank,name,url,focus
+priority,rank,name,url,focus,source,source_page
 ```
 
 `focus` はVEXUM側で参照するときの大分類（motion / typography / layout / brand / product / editorial / ecommerce など）です。
+
+`references/categories/` には、同じレコードを `focus` 別に保存します。案件の目的から先に探したいときは、こちらを入口にします。

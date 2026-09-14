@@ -1,40 +1,78 @@
-priority,rank,name,url,focus
-391,K,Blunarova,https://www.blunarova.com/,portfolio
-392,K,Bradley Ziffer,https://bradleyziffer.com/,portfolio
-393,K,Marco Almeida,https://www.aboutmarco.com/,portfolio
-394,K,Elvin Hu,https://www.elvinhu.com/,portfolio
-395,K,Dan Tase,https://www.dantase.com/,portfolio
-396,K,Repponen,https://repponen.com/,portfolio
-397,K,General Dental,https://www.generaldental.ca/,product
-398,K,Echofi,https://echofi-bp.webflow.io/,product
-399,K,Pattern Breaking,https://patternbreak.ing/,brand
-400,K,Emily Durham,https://emilydurham.org/,portfolio
-401,K,Mymind,https://mymind.com/,product
-402,K,Annnimate,https://www.annnimate.com/,product
-403,K,Precious,https://www.workbyprecious.com/,brand
-404,K,Nice People,https://nicepeople.com/,brand
-405,K,Primary Studio,https://www.primary.studio/,brand
-406,K,Bakken & Bæck,https://bakkenbaeck.com/,brand
-407,K,ChatLabs,https://chatlabs.com/,product
-408,K,VALIENTE®,https://valientebrands.com/,brand
-409,K,New Studio,https://www.new.studio/,brand
-410,K,Delcio Designs,https://www.delciodesigns.com/,portfolio
-411,K,Amna Javed,https://amnajaved.com/,portfolio
-412,K,Lift Type,https://www.lift-type.fr/,portfolio
-413,K,288 4th Ave,https://288bk.com/,product
-414,K,Integrated Biosciences,https://integratedbiosciences.com/,product
-415,K,Paradigm,https://www.paradigmai.com/,product
-416,K,Open Purpose,https://openpurpose.com/,brand
-417,K,AREA 17,https://area17.com/,brand
-418,K,Wine Diplomacy,https://wine-diplomacy.ro/,product
-419,K,SERIOUS.BUSINESS,https://serious.business/,brand
-420,K,Lorenzo Cabra,https://lorenzocabra.xyz/,portfolio
-421,K,Descript,https://www.descript.com/,product
-422,K,Liquidity,https://www.liquidity.com/,product
-423,K,Peec AI,https://peec.ai/,product
-424,K,Murmure,https://murmure.me/,brand
-425,K,WaxyWeb,https://www.waxyweb.agency/,brand
-426,K,Sharp Type,https://www.sharptype.co/,product
-427,K,ChatGPT Atlas,https://chatgpt.com/atlas,product
-428,K,Savor,https://www.savor.it/,product
-429,K,L'Étude,https://letude.group/,brand
+priority,rank,name,url,focus,source,source_page
+771,K,Fictional,https://fictional-typeface.com/,product,A1 Gallery,https://www.a1.gallery
+772,K,Vibrant,https://www.vibrantpractice.com/,product,A1 Gallery,https://www.a1.gallery
+773,K,Aboard,https://www.aboardhr.com/,product,A1 Gallery,https://www.a1.gallery
+774,K,Telescope,https://telescope.fyi/,product,A1 Gallery,https://www.a1.gallery
+775,K,Superhuman,https://superhuman.com/,product,A1 Gallery,https://www.a1.gallery
+776,K,Localyzer,https://www.localyzer.io/,product,A1 Gallery,https://www.a1.gallery
+777,K,Reducto,https://reducto.ai/,product,A1 Gallery,https://www.a1.gallery
+778,K,Rootly,https://rootly.com/,product,A1 Gallery,https://www.a1.gallery
+779,K,State of Create,https://stateofcreate.co/,product,A1 Gallery,https://www.a1.gallery
+780,K,XMCP,https://xmcp.dev/,product,A1 Gallery,https://www.a1.gallery
+781,K,Chutes,https://chutes.ai/,product,A1 Gallery,https://www.a1.gallery
+782,K,Porta,https://portalgaming.com/,product,A1 Gallery,https://www.a1.gallery
+783,K,Equals,https://equals.com/,product,A1 Gallery,https://www.a1.gallery
+784,K,Ctrl,https://ctrl.xyz/,product,A1 Gallery,https://www.a1.gallery
+785,K,Advis Law,https://advishawaii.com/,product,A1 Gallery,https://www.a1.gallery
+786,K,Dria Ventures,https://www.dria.com/,product,A1 Gallery,https://www.a1.gallery
+787,K,ai.work,https://www.ai.work/,product,A1 Gallery,https://www.a1.gallery
+788,K,Airtree,https://www.airtree.vc/,product,A1 Gallery,https://www.a1.gallery
+789,K,Summer Smash Tennis,https://summersmashtennis.ca/,product,A1 Gallery,https://www.a1.gallery
+790,K,Atlas,https://www.atlas.xyz/,product,A1 Gallery,https://www.a1.gallery
+791,K,Garden,https://www.gardenintel.com/,product,A1 Gallery,https://www.a1.gallery
+792,K,Rollups,https://rollups.com/,product,A1 Gallery,https://www.a1.gallery
+793,K,Privy,https://www.privy.io/,product,A1 Gallery,https://www.a1.gallery
+794,K,Fernand,https://getfernand.com/,product,A1 Gallery,https://www.a1.gallery
+795,K,WeNatal,https://wenatal.com/,product,A1 Gallery,https://www.a1.gallery
+796,K,Mintlify,https://www.mintlify.com/,product,A1 Gallery,https://www.a1.gallery
+797,K,Daybridge,https://daybridge.com/,product,A1 Gallery,https://www.a1.gallery
+798,K,Airspace,https://airspace.airtable.com/,product,A1 Gallery,https://www.a1.gallery
+799,K,Homestack,https://www.homestack.com/,product,A1 Gallery,https://www.a1.gallery
+800,K,Tinyman,https://tinyman.org/,product,A1 Gallery,https://www.a1.gallery
+801,K,Figma,https://www.figma.com/,product,A1 Gallery,https://www.a1.gallery
+802,K,Limitless,https://www.limitless.ai/,product,A1 Gallery,https://www.a1.gallery
+803,K,Givingli,https://www.givingli.com/,product,A1 Gallery,https://www.a1.gallery
+804,K,SuperHi,https://www.superhi.com/,product,A1 Gallery,https://www.a1.gallery
+805,K,The Leap,https://www.theleap.co/,product,A1 Gallery,https://www.a1.gallery
+806,K,Lavender,https://www.lavender.ai/,product,A1 Gallery,https://www.a1.gallery
+807,K,Venture Climate Alliance,https://www.ventureclimatealliance.org/,product,A1 Gallery,https://www.a1.gallery
+808,K,Primer,https://primer.io/,product,A1 Gallery,https://www.a1.gallery
+809,K,Tines,https://www.tines.com/,product,A1 Gallery,https://www.a1.gallery
+810,K,Groove,https://www.groove.ooo/,product,A1 Gallery,https://www.a1.gallery
+811,K,Beard Meats Food,https://www.beardmeatsfood.co.uk/,editorial,A1 Gallery,https://www.a1.gallery
+812,K,Nory,https://www.nory.ai/,product,A1 Gallery,https://www.a1.gallery
+813,K,Assurestor,https://www.assurestor.com/,product,A1 Gallery,https://www.a1.gallery
+814,K,Factory,https://factory.ai/,product,A1 Gallery,https://www.a1.gallery
+815,K,Central,https://centralhq.com/,product,A1 Gallery,https://www.a1.gallery
+816,K,Webflow,https://try.webflow.com/rwb0ge3b7lth,product,A1 Gallery,https://www.a1.gallery
+817,K,Buzz,https://buzz.xyz/,product,A1 Gallery,https://www.a1.gallery
+818,K,Permian,https://permianworld.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+819,K,Leel,https://www.leel.in/,landing,A1 Gallery,https://www.a1.gallery
+820,K,More Nutrition,https://more-nutrition.webflow.io/,product,A1 Gallery,https://www.a1.gallery
+821,K,Pixelier Mache,https://www.pixeliermache.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+822,K,Langbase,https://langbase.com/,landing,A1 Gallery,https://www.a1.gallery
+823,K,Town,https://www.town.com/,product,A1 Gallery,https://www.a1.gallery
+824,K,Liveblocks,https://liveblocks.io/,product,A1 Gallery,https://www.a1.gallery
+825,K,Runway,https://runway.com/,product,A1 Gallery,https://www.a1.gallery
+826,K,Solflare,https://www.solflare.com/,product,A1 Gallery,https://www.a1.gallery
+827,K,Dawn,https://joindawn.com/,product,A1 Gallery,https://www.a1.gallery
+828,K,PubQ,https://pubq.se/,product,A1 Gallery,https://www.a1.gallery
+829,K,Vartas,https://vartas.com.au/,product,A1 Gallery,https://www.a1.gallery
+830,K,Payman,https://paymanai.com/,product,A1 Gallery,https://www.a1.gallery
+831,K,Speakeasy,https://www.speakeasy.com/,product,A1 Gallery,https://www.a1.gallery
+832,K,Flank,https://www.flank.ai/,product,A1 Gallery,https://www.a1.gallery
+833,K,Intercom Design,https://intercom.design/,product,A1 Gallery,https://www.a1.gallery
+834,K,Orbi,https://heyorbi.com/,product,A1 Gallery,https://www.a1.gallery
+835,K,Coidar,https://www.coidar.com/,product,A1 Gallery,https://www.a1.gallery
+836,K,Realm,https://www.withrealm.com/,product,A1 Gallery,https://www.a1.gallery
+837,K,Bevel,https://www.bevel.health/,product,A1 Gallery,https://www.a1.gallery
+838,K,Poolside,https://poolside.ai/,product,A1 Gallery,https://www.a1.gallery
+839,K,Firsty,https://www.firsty.app/,product,A1 Gallery,https://www.a1.gallery
+840,K,Playbook,https://www.consumerapp.studio/,product,A1 Gallery,https://www.a1.gallery
+841,K,Decimal AI,https://decimal.app/,product,A1 Gallery,https://www.a1.gallery
+842,K,Propane,https://www.usepropane.ai/,product,A1 Gallery,https://www.a1.gallery
+843,K,Deel,https://www.deel.com/,product,A1 Gallery,https://www.a1.gallery
+844,K,Contentsquare,https://contentsquare.com/,product,A1 Gallery,https://www.a1.gallery
+845,K,The Uncommon Founder,https://www.theuncommonfounder.com/,product,A1 Gallery,https://www.a1.gallery
+846,K,Blackalgo,https://blackalgo.com/,product,A1 Gallery,https://www.a1.gallery
+847,K,Semrush,https://www.semrush.com/,product,A1 Gallery,https://www.a1.gallery

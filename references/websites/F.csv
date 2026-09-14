@@ -1,40 +1,78 @@
-priority,rank,name,url,focus
-196,F,SISA,https://sisa.ai/,product
-197,F,Keytail,https://www.keytail.ai/,product
-198,F,ON.energy,https://www.on.energy/,product
-199,F,Tavus,https://www.tavus.io/,product
-200,F,UGLYCASH,https://ugly.cash/,product
-201,F,Keith Greenbaum,https://www.keithgreenbaum.com/,portfolio
-202,F,Native,https://www.native.inc/,product
-203,F,Euphemia,https://euphemia.com/,product
-204,F,Caladan,https://caladan.bio/,product
-205,F,MoMoney,https://www.museumofmoney.com/,product
-206,F,Ease Health,https://easehealth.com/,product
-207,F,Gloria Wong,https://gloriawong.co/,portfolio
-208,F,Gumloop,https://www.gumloop.com/,product
-209,F,Resurf,https://resurf.so/,product
-210,F,Google Cloud x Team USA,https://sports.withgoogle.com/teamusa,product
-211,F,Daybreak Studio,https://www.daybreak.studio/,brand
-212,F,Kaiko,https://kaiko.ai/,product
-213,F,NGLM,https://www.nglm.com/,brand
-214,F,Driftime®,https://driftime.com/,brand
-215,F,Akash Tyagi,https://akashtyagi.com/,portfolio
-216,F,Hurt Feelings,https://www.hurt-feelings.com/,product
-217,F,Fin,https://fin.ai/,product
-218,F,Instrument,https://www.instrument.com/,brand
-219,F,OutThere,https://www.outthere.studio/,brand
-220,F,SMAQ,https://carrierescene.ca/,product
-221,F,The Content Architecture,https://www.contentarchitecture.dev/,product
-222,F,Tinker,https://www.tinker.com/uk,product
-223,F,Will Beeching,https://willbeeching.com/,portfolio
-224,F,Diegovz,https://diegovz.com/,portfolio
-225,F,Cassia Freire,https://cassia.design/,portfolio
-226,F,George Badea,https://georgebadea.com/,portfolio
-227,F,Cob,https://cobfoods.com/,ecommerce
-228,F,Darkroom,https://www.darkroom.au/,ecommerce
-229,F,Keel,https://keel.so/,product
-230,F,Rise Plasma,https://www.riseplasma.com/,product
-231,F,Edition,https://www.editiondesign.co/,brand
-232,F,ISO Meet,https://www.isomeet.com/,product
-233,F,Koto,https://koto.com/,brand
-234,F,Oberyon,https://oberyon.com/,brand
+priority,rank,name,url,focus,source,source_page
+386,F,Refresh Studio,https://www.ctrlr.studio/,brand,A1 Gallery,https://www.a1.gallery
+387,F,Lazy Sundays,https://www.lazysundays.studio/,brand,A1 Gallery,https://www.a1.gallery
+388,F,Design Business Company,https://dbco.online/,brand,A1 Gallery,https://www.a1.gallery
+389,F,Gulp Studio,https://www.gulpstudio.com/,portfolio,A1 Gallery,https://www.a1.gallery
+390,F,Aaron Rolston,https://aaronrolston.com/,portfolio,A1 Gallery,https://www.a1.gallery
+391,F,Blunarova,https://www.blunarova.com/,portfolio,A1 Gallery,https://www.a1.gallery
+392,F,Bradley Ziffer,https://bradleyziffer.com/,portfolio,A1 Gallery,https://www.a1.gallery
+393,F,Marco Almeida,https://www.aboutmarco.com/,portfolio,A1 Gallery,https://www.a1.gallery
+394,F,Elvin Hu,https://www.elvinhu.com/,portfolio,A1 Gallery,https://www.a1.gallery
+395,F,Dan Tase,https://www.dantase.com/,portfolio,A1 Gallery,https://www.a1.gallery
+396,F,Repponen,https://repponen.com/,portfolio,A1 Gallery,https://www.a1.gallery
+397,F,General Dental,https://www.generaldental.ca/,product,A1 Gallery,https://www.a1.gallery
+398,F,Echofi,https://echofi-bp.webflow.io/,product,A1 Gallery,https://www.a1.gallery
+399,F,Pattern Breaking,https://patternbreak.ing/,brand,A1 Gallery,https://www.a1.gallery
+400,F,Emily Durham,https://emilydurham.org/,portfolio,A1 Gallery,https://www.a1.gallery
+401,F,Mymind,https://mymind.com/,product,A1 Gallery,https://www.a1.gallery
+402,F,Annnimate,https://www.annnimate.com/,product,A1 Gallery,https://www.a1.gallery
+403,F,Precious,https://www.workbyprecious.com/,brand,A1 Gallery,https://www.a1.gallery
+404,F,Nice People,https://nicepeople.com/,brand,A1 Gallery,https://www.a1.gallery
+405,F,Primary Studio,https://www.primary.studio/,brand,A1 Gallery,https://www.a1.gallery
+406,F,Bakken & Bæck,https://bakkenbaeck.com/,brand,A1 Gallery,https://www.a1.gallery
+407,F,ChatLabs,https://chatlabs.com/,product,A1 Gallery,https://www.a1.gallery
+408,F,VALIENTE®,https://valientebrands.com/,brand,A1 Gallery,https://www.a1.gallery
+409,F,New Studio,https://www.new.studio/,brand,A1 Gallery,https://www.a1.gallery
+410,F,Delcio Designs,https://www.delciodesigns.com/,portfolio,A1 Gallery,https://www.a1.gallery
+411,F,Amna Javed,https://amnajaved.com/,portfolio,A1 Gallery,https://www.a1.gallery
+412,F,Lift Type,https://www.lift-type.fr/,portfolio,A1 Gallery,https://www.a1.gallery
+413,F,288 4th Ave,https://288bk.com/,product,A1 Gallery,https://www.a1.gallery
+414,F,Integrated Biosciences,https://integratedbiosciences.com/,product,A1 Gallery,https://www.a1.gallery
+415,F,Paradigm,https://www.paradigmai.com/,product,A1 Gallery,https://www.a1.gallery
+416,F,Open Purpose,https://openpurpose.com/,brand,A1 Gallery,https://www.a1.gallery
+417,F,AREA 17,https://area17.com/,brand,A1 Gallery,https://www.a1.gallery
+418,F,Wine Diplomacy,https://wine-diplomacy.ro/,product,A1 Gallery,https://www.a1.gallery
+419,F,SERIOUS.BUSINESS,https://serious.business/,brand,A1 Gallery,https://www.a1.gallery
+420,F,Lorenzo Cabra,https://lorenzocabra.xyz/,portfolio,A1 Gallery,https://www.a1.gallery
+421,F,Descript,https://www.descript.com/,product,A1 Gallery,https://www.a1.gallery
+422,F,Liquidity,https://www.liquidity.com/,product,A1 Gallery,https://www.a1.gallery
+423,F,Peec AI,https://peec.ai/,product,A1 Gallery,https://www.a1.gallery
+424,F,Murmure,https://murmure.me/,brand,A1 Gallery,https://www.a1.gallery
+425,F,WaxyWeb,https://www.waxyweb.agency/,brand,A1 Gallery,https://www.a1.gallery
+426,F,Sharp Type,https://www.sharptype.co/,product,A1 Gallery,https://www.a1.gallery
+427,F,ChatGPT Atlas,https://chatgpt.com/atlas,product,A1 Gallery,https://www.a1.gallery
+428,F,Savor,https://www.savor.it/,product,A1 Gallery,https://www.a1.gallery
+429,F,L'Étude,https://letude.group/,brand,A1 Gallery,https://www.a1.gallery
+430,F,Elegant Seagulls,https://www.elegantseagulls.com/,brand,A1 Gallery,https://www.a1.gallery
+431,F,Daniella Marynova,https://hellodani.co/,portfolio,A1 Gallery,https://www.a1.gallery
+432,F,Semplice V7,https://www.semplice.com/v7,product,A1 Gallery,https://www.a1.gallery
+433,F,Control,https://cntrl.site/,product,A1 Gallery,https://www.a1.gallery
+434,F,Krea,https://www.krea.ai/,product,A1 Gallery,https://www.a1.gallery
+435,F,Ona,https://ona.com/,product,A1 Gallery,https://www.a1.gallery
+436,F,Radial,https://radial.org/,product,A1 Gallery,https://www.a1.gallery
+437,F,Alma,https://www.alma.food/,product,A1 Gallery,https://www.a1.gallery
+438,F,Zig Zag Creative,https://www.zigzagcreative.co/,brand,A1 Gallery,https://www.a1.gallery
+439,F,Pacer,https://www.pacer.studio/,brand,A1 Gallery,https://www.a1.gallery
+440,F,Valentin,https://www.heyvalentin.club/,portfolio,A1 Gallery,https://www.a1.gallery
+441,F,Studio Jud,https://studiojud.com/,product,A1 Gallery,https://www.a1.gallery
+442,F,Flexion Robotics,https://flexion.ai/,product,A1 Gallery,https://www.a1.gallery
+443,F,Spaces,https://spaces.is/,product,A1 Gallery,https://www.a1.gallery
+444,F,Family,https://family.co/,product,A1 Gallery,https://www.a1.gallery
+445,F,Gosteli-Archiv,https://www.gosteli-archiv.ch/en,editorial,A1 Gallery,https://www.a1.gallery
+446,F,Caleomag,https://www.caleomag.com/,editorial,A1 Gallery,https://www.a1.gallery
+447,F,Coinsetters,https://www.coinsetters.io/,brand,A1 Gallery,https://www.a1.gallery
+448,F,Aside,https://aside.com/,product,A1 Gallery,https://www.a1.gallery
+449,F,Etched,https://www.etched.com/,product,A1 Gallery,https://www.a1.gallery
+450,F,Canopy,https://canopyseo.com/,product,A1 Gallery,https://www.a1.gallery
+451,F,Burak Başcı,https://burakbasci.com/,portfolio,A1 Gallery,https://www.a1.gallery
+452,F,Zerodois,https://zerodois.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+453,F,Daydream 1820,https://daydream1820.com/en,ecommerce,A1 Gallery,https://www.a1.gallery
+454,F,Potion,https://mixpotion.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+455,F,Litebox,https://litebox.ai/,brand,A1 Gallery,https://www.a1.gallery
+456,F,Illo,https://illo.tv/,brand,A1 Gallery,https://www.a1.gallery
+457,F,Pitch-Works,https://pitch.works/,brand,A1 Gallery,https://www.a1.gallery
+458,F,Holland Design,https://www.hollanddesign.ca/,brand,A1 Gallery,https://www.a1.gallery
+459,F,Self Aware,https://selfaware.studio/,brand,A1 Gallery,https://www.a1.gallery
+460,F,North,https://www.northmail.app/,product,A1 Gallery,https://www.a1.gallery
+461,F,Menkind,https://menkind.co/en,product,A1 Gallery,https://www.a1.gallery
+462,F,Autonomous,https://becomeautonomous.com/,product,A1 Gallery,https://www.a1.gallery

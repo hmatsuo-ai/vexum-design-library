@@ -1,39 +1,78 @@
-priority,rank,name,url,focus
-773,U,Aboard,https://www.aboardhr.com/,product
-774,U,Telescope,https://telescope.fyi/,product
-775,U,Superhuman,https://superhuman.com/,product
-776,U,Localyzer,https://www.localyzer.io/,product
-777,U,Reducto,https://reducto.ai/,product
-778,U,Rootly,https://rootly.com/,product
-779,U,State of Create,https://stateofcreate.co/,product
-780,U,XMCP,https://xmcp.dev/,product
-781,U,Chutes,https://chutes.ai/,product
-782,U,Porta,https://portalgaming.com/,product
-783,U,Equals,https://equals.com/,product
-784,U,Ctrl,https://ctrl.xyz/,product
-785,U,Advis Law,https://advishawaii.com/,product
-786,U,Dria Ventures,https://www.dria.com/,product
-787,U,ai.work,https://www.ai.work/,product
-788,U,Airtree,https://www.airtree.vc/,product
-789,U,Summer Smash Tennis,https://summersmashtennis.ca/,product
-790,U,Atlas,https://www.atlas.xyz/,product
-791,U,Garden,https://www.gardenintel.com/,product
-792,U,Rollups,https://rollups.com/,product
-793,U,Privy,https://www.privy.io/,product
-794,U,Fernand,https://getfernand.com/,product
-795,U,WeNatal,https://wenatal.com/,product
-796,U,Mintlify,https://www.mintlify.com/,product
-797,U,Daybridge,https://daybridge.com/,product
-798,U,Airspace,https://airspace.airtable.com/,product
-799,U,Homestack,https://www.homestack.com/,product
-800,U,Tinyman,https://tinyman.org/,product
-801,U,Figma,https://www.figma.com/,product
-802,U,Limitless,https://www.limitless.ai/,product
-803,U,Givingli,https://www.givingli.com/,product
-804,U,SuperHi,https://www.superhi.com/,product
-805,U,The Leap,https://www.theleap.co/,product
-806,U,Lavender,https://www.lavender.ai/,product
-807,U,Venture Climate Alliance,https://www.ventureclimatealliance.org/,product
-808,U,Primer,https://primer.io/,product
-809,U,Tines,https://www.tines.com/,product
-810,U,Groove,https://www.groove.ooo/,product
+priority,rank,name,url,focus,source,source_page
+1541,U,Frontier Development Lab,https://www.awwwards.com/sites/frontier-development-lab,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1542,U,Squarespace Browser History,https://www.awwwards.com/sites/squarespace-browser-history,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1543,U,Innotech,https://www.awwwards.com/sites/innotech,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1544,U,Five years of -99,https://www.awwwards.com/sites/five-years-of-99,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1545,U,Sofia Papadopoulou,https://www.awwwards.com/sites/sofia-papadopoulou,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1546,U,Google Cloud Demos-Healthcare,https://www.awwwards.com/sites/google-cloud-demos-healthcare,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1547,U,"Nieuw Bergen, Iconic Living.",https://www.awwwards.com/sites/nieuw-bergen-iconic-living,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1548,U,Deliciously Dark Escape,https://www.awwwards.com/sites/deliciously-dark-escape,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1549,U,The Queen and The Crown,https://www.awwwards.com/sites/the-queen-and-the-crown,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1550,U,Foam Talent 2020,https://www.awwwards.com/sites/foam-talent-2020,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1551,U,Worthitdocs,https://www.awwwards.com/sites/worthitdocs,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1552,U,Naba Zabih,https://www.awwwards.com/sites/naba-zabih,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1553,U,Spain Collection,https://www.awwwards.com/sites/spain-collection,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1554,U,Midwam,https://www.awwwards.com/sites/midwam,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1555,U,Loftgarten,https://www.awwwards.com/sites/loftgarten,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1556,U,Studio—BA®,https://www.awwwards.com/sites/studio-ba-r,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1557,U,Mammut Expedition Baikal,https://www.awwwards.com/sites/mammut-expedition-baikal,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1558,U,Physics of Beauty,https://www.awwwards.com/sites/physics-of-beauty,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=68
+1559,U,ChiviChivi,https://www.awwwards.com/sites/chivichivi,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1560,U,grove lust,https://www.awwwards.com/sites/grove-lust,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1561,U,Medal of Honor: Above & Beyond,https://www.awwwards.com/sites/medal-of-honor-above-beyond,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1562,U,Chartogne-Taillet,https://www.awwwards.com/sites/chartogne-taillet,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1563,U,Moooi - Digital flagship store,https://www.awwwards.com/sites/moooi-digital-flagship-store,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1564,U,Inside the Mind of Samuel Day,https://www.awwwards.com/sites/inside-the-mind-of-samuel-day,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1565,U,Huluween: The Screamlands,https://www.awwwards.com/sites/huluween-the-screamlands,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1566,U,aircord,https://www.awwwards.com/sites/aircord,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1567,U,Humans 3d characters,https://www.awwwards.com/sites/humans-3d-characters,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1568,U,Kode Sports Club,https://www.awwwards.com/sites/kode,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1569,U,Vooban,https://www.awwwards.com/sites/vooban,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1570,U,ZoePepper,https://www.awwwards.com/sites/zoepepper,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1571,U,Maserati MC20 Product Page,https://www.awwwards.com/sites/maserati-mc20-product-page,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1572,U,Glenn Catteeuw — Portfolio,https://www.awwwards.com/sites/glenn-catteeuw-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1573,U,Julie Guzal - Portfolio,https://www.awwwards.com/sites/julie-guzal-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1574,U,The Weed Center,https://www.awwwards.com/sites/the-weed-center,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1575,U,Block Rage,https://www.awwwards.com/sites/block-rage,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1576,U,Overpass,https://www.awwwards.com/sites/overpass,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1577,U,Squadeasy,https://www.awwwards.com/sites/squadeasy,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1578,U,BOOST,https://www.awwwards.com/sites/boost,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1579,U,Mammut - Local Adventure,https://www.awwwards.com/sites/mammut-local-adventure,brand,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1580,U,Marqeta,https://www.awwwards.com/sites/marqeta,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1581,U,Marussia Beverages,https://www.awwwards.com/sites/marussia-beverages,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1582,U,Carnival with Spotify,https://www.awwwards.com/sites/carnival-with-spotify,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1583,U,Machine Learning Fairness,https://www.awwwards.com/sites/machine-learning-fairness,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1584,U,Charlie Le Maignan - Portfolio,https://www.awwwards.com/sites/charlie-le-maignan-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1585,U,Blindsight,https://www.awwwards.com/sites/blindsight,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1586,U,Clock Strikes Twelve,https://www.awwwards.com/sites/clock-strikes-twelve,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1587,U,City of Varennes,https://www.awwwards.com/sites/city-of-varennes,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1588,U,House of Maserati,https://www.awwwards.com/sites/house-of-maserati,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1589,U,DMLA - Dans tes yeux,https://www.awwwards.com/sites/dmla-dans-tes-yeux,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1590,U,Sennep,https://www.awwwards.com/sites/sennep-portfolio,brand,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1591,U,Dark: Official Netflix Guide,https://www.awwwards.com/sites/dark-official-netflix-guide,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1592,U,Stelvio Grotesk,https://www.awwwards.com/sites/stelvio-grotesk,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1593,U,Centogene Solutions,https://www.awwwards.com/sites/centogene-solutions,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1594,U,Chocapic Nutri-Game,https://www.awwwards.com/sites/chocapic-nutri-game,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1595,U,United Earth Space Force,https://www.awwwards.com/sites/united-earth-space-force,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1596,U,Goliath Entertainment,https://www.awwwards.com/sites/goliath-entertainment,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1597,U,Lamadone,https://www.awwwards.com/sites/lamadone,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1598,U,Robin Noguier - Portfolio,https://www.awwwards.com/sites/robin-noguier-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1599,U,Witnesses to History,https://www.awwwards.com/sites/witnesses-to-history,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1600,U,KIKK Festival 2020,https://www.awwwards.com/sites/kikk-festival-2020,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1601,U,Loeven Morcel,https://www.awwwards.com/sites/loeven-morcel,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1602,U,WHEN WE WERE KIDS PRODUCTION,https://www.awwwards.com/sites/when-we-were-kids,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1603,U,CHILE20,https://www.awwwards.com/sites/chile20,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1604,U,Simon Daufresne,https://www.awwwards.com/sites/simon-daufresne,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1605,U,Discovered Wildfoods,https://www.awwwards.com/sites/discovered-wildfoods,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1606,U,Æbele Interiors,https://www.awwwards.com/sites/aebele-interiors,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1607,U,Brews and Grooves,https://www.awwwards.com/sites/brews-and-grooves,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1608,U,Tiger Tells about Voodoo,https://www.awwwards.com/sites/tiger-tells-about-voodoo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1609,U,Lucciano's,https://www.awwwards.com/sites/luccianos,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1610,U,Blind Barber 10—Year,https://www.awwwards.com/sites/blind-barber-10-year,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1611,U,AloneWithMe.Ai,https://www.awwwards.com/sites/alonewithme-ai,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1612,U,Boynton Yards,https://www.awwwards.com/sites/boynton-yards,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1613,U,Nahel Moussi – Portfolio,https://www.awwwards.com/sites/nahelmoussi-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1614,U,"M-trust Co.,Ltd. Corporate",https://www.awwwards.com/sites/m-trust-co-ltd-corporate,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1615,U,RipePlanet,https://www.awwwards.com/sites/ripeplanet,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1616,U,The Araw Collection,https://www.awwwards.com/sites/the-araw-collection,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70
+1617,U,Letter,https://www.awwwards.com/sites/letter,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=70

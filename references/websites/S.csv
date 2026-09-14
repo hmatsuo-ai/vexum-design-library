@@ -1,39 +1,78 @@
-priority,rank,name,url,focus
-697,S,Quartzo Studio,https://quartzo.studio/en,brand
-698,S,CRUSH STUDIO,https://crush.enterprises/,brand
-699,S,ONBOX,https://www.onboxcreative.com/,brand
-700,S,Lué Studio®,https://lue.studio/,brand
-701,S,Muse Design Studio,https://musestudio.uk/,brand
-702,S,ANALOGUE,https://madebyanalogue.co.uk/,brand
-703,S,CASSETTE,https://www.cassettemusic.com/,brand
-704,S,Haptic,https://haptic.studio/,brand
-705,S,Rauno Freiberg,https://rauno.me/,portfolio
-706,S,Character,https://www.character.studio/,portfolio
-707,S,Mat Voyce,https://matvoyce.tv/,portfolio
-708,S,Gev Design,https://www.gev.design/,portfolio
-709,S,Spencer Gabor,https://spencergabor.work/,portfolio
-710,S,Los York,https://losyork.tv/,portfolio
-711,S,Campsite,https://www.campsite.co/,product
-712,S,Marathon,https://www.onmarathon.com/,product
-713,S,Flow Computing,https://flow-computing.com/,product
-714,S,Lithic,https://www.lithic.com/,product
-715,S,Agora,https://www.agora.xyz/,product
-716,S,Mobbin,https://mobbin.com/,product
-717,S,Notion,https://www.notion.so/,product
-718,S,Parthean,https://www.parthean.com/,product
-719,S,Folk,https://www.folk.app/,product
-720,S,Attio,https://attio.com/,product
-721,S,Refrakt,https://refrakt.app/,product
-722,S,Onfolk,https://www.onfolk.com/,product
-723,S,Dare To Share,https://www.daretoshare.design/,product
-724,S,Tella,https://www.tella.tv/,product
-725,S,Monad,https://www.monad.com/,product
-726,S,Macfolio,https://macfolio.com/,editorial
-727,S,Flim,https://flim.ai/,editorial
-728,S,Not a Number,https://www.nan.fyi/,editorial
-729,S,The Bottom Line,https://squareup.com/us/en/the-bottom-line,editorial
-730,S,Everyday Finds,https://everydayfinds.com/,editorial
-731,S,Uniswap,https://app.uniswap.org/,product
-732,S,Hashnode,https://hashnode.com/,product
-733,S,Abode,https://www.abode.space/,product
-734,S,Navigate,https://nvg8.io/,product
+priority,rank,name,url,focus,source,source_page
+1387,S,212 Heroes: Forever Young,https://www.awwwards.com/sites/212-heroes-forever-young,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1388,S,Charlotte Beaude,https://www.awwwards.com/sites/charlotte-beaude,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1389,S,Rogue Store,https://www.awwwards.com/sites/rogue-store,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1390,S,Best Things for Everything,https://www.awwwards.com/sites/best-things-for-everything,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1391,S,The Ocean Agency,https://www.awwwards.com/sites/the-ocean-agency,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1392,S,Apose,https://www.awwwards.com/sites/apose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1393,S,Museum of Annoying Experiences,https://www.awwwards.com/sites/museum-of-annoying-experiences,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1394,S,Nasdaq 50th anniversary,https://www.awwwards.com/sites/nasdaq-50th-anniversary,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1395,S,Fingerspelling.xyz,https://www.awwwards.com/sites/fingerspelling-xyz,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1396,S,sabato,https://www.awwwards.com/sites/sabato,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1397,S,Noodz → Nothing to hide,https://www.awwwards.com/sites/noodz-nothing-to-hide,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1398,S,Weleda - The Open Garden,https://www.awwwards.com/sites/weleda-the-open-garden,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1399,S,Ōmbia Studio,https://www.awwwards.com/sites/ombia-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1400,S,The Armenian Genocide,https://www.awwwards.com/sites/the-armenian-genocide,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1401,S,Tomas Than,https://www.awwwards.com/sites/tomas-than,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1402,S,The Metropolitan Enigma,https://www.awwwards.com/sites/the-metropolitan-enigma,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1403,S,Life in Vogue,https://www.awwwards.com/sites/life-in-vogue,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1404,S,Tecate Pa'l Norte Virtual 2021,https://www.awwwards.com/sites/tecate-pal-norte-virtual-2021,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1405,S,Plus,https://www.awwwards.com/sites/plus,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1406,S,Finely Crafted,https://www.awwwards.com/sites/finely-crafted,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1407,S,Yamauchi No.10 Family Office,https://www.awwwards.com/sites/yamauchi-no-10-family-office,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1408,S,The Covid Art Museum,https://www.awwwards.com/sites/the-covid-art-museum,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1409,S,Prometheus Fuels,https://www.awwwards.com/sites/prometheus-fuels,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1410,S,Kategora,https://www.awwwards.com/sites/kategora,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1411,S,Mafanfa,https://www.awwwards.com/sites/mafanfa,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1412,S,The laughing cow® 100 years,https://www.awwwards.com/sites/the-laughing-cow-r-100-years,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1413,S,Bennett Tea,https://www.awwwards.com/sites/bennett-tea,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1414,S,Penderecki's Garden,https://www.awwwards.com/sites/pendereckis-garden,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1415,S,CRE8TIVE Agency,https://www.awwwards.com/sites/cre8tive-agency,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1416,S,Awd Agency,https://www.awwwards.com/sites/awd-agency-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1417,S,Lens by Science,https://www.awwwards.com/sites/lens-by-science,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1418,S,Fontshare,https://www.awwwards.com/sites/fontshare,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1419,S,The Russian Pantheon,https://www.awwwards.com/sites/the-russian-pantheon,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1420,S,Martin Laxenaire '21 Portfolio,https://www.awwwards.com/sites/martin-laxenaire-21-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1421,S,For the Love of Bread,https://www.awwwards.com/sites/for-the-love-of-bread,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1422,S,Norman Dubois – Portfolio,https://www.awwwards.com/sites/norman-dubois-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1423,S,Studio Sentempo,https://www.awwwards.com/sites/studio-sentempo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1424,S,Superlist,https://www.awwwards.com/sites/superlist,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1425,S,Happy Face,https://www.awwwards.com/sites/happy-face,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1426,S,Visages du Rhône,https://www.awwwards.com/sites/visages-du-rhone,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1427,S,SSSolitaire,https://www.awwwards.com/sites/sssolitaire,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1428,S,Matthew Fisher,https://www.awwwards.com/sites/matthew-fisher,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1429,S,ZORKA AGENCY,https://www.awwwards.com/sites/zorka-agency,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1430,S,At Glacier's End,https://www.awwwards.com/sites/at-glaciers-end,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1431,S,Netrix,https://www.awwwards.com/sites/netrix-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1432,S,Blumenkopf,https://www.awwwards.com/sites/blumenkopf,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1433,S,Rhythm of Nature,https://www.awwwards.com/sites/rhythm-of-nature,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1434,S,Flipaclip,https://www.awwwards.com/sites/flipaclip,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=64
+1435,S,Le chef d'orchestre du corps,https://www.awwwards.com/sites/le-chef-dorchestre-du-corps,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1436,S,POLA 2029 VISION,https://www.awwwards.com/sites/pola-2029-vision,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1437,S,Garoa Skincare,https://www.awwwards.com/sites/garoa-skincare,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1438,S,Wax Poetics,https://www.awwwards.com/sites/wax-poetics,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1439,S,VINTAGERIA,https://www.awwwards.com/sites/vintageria,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1440,S,Local Guides,https://www.awwwards.com/sites/local-guides,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1441,S,Jonathan Alpmyr,https://www.awwwards.com/sites/jonathan-alpmyr,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1442,S,Marcus Eriksson,https://www.awwwards.com/sites/marcus-eriksson-1,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1443,S,The Hiring Chain,https://www.awwwards.com/sites/the-hiring-chain,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1444,S,Bridge Tour,https://www.awwwards.com/sites/bridge-tour,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1445,S,Mank the Unmaking,https://www.awwwards.com/sites/mank-the-unmaking,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1446,S,Gabriel Norman - Portfolio,https://www.awwwards.com/sites/gabriel-norman-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1447,S,MABA,https://www.awwwards.com/sites/maba,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1448,S,Hanai World,https://www.awwwards.com/sites/hanai-world,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1449,S,Art of Swissdent,https://www.awwwards.com/sites/art-of-swissdent,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1450,S,Bruno,https://www.awwwards.com/sites/bruno,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1451,S,Into the Storm,https://www.awwwards.com/sites/into-the-storm,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1452,S,MAD,https://www.awwwards.com/sites/mad-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1453,S,Anywell Facial Bar,https://www.awwwards.com/sites/anywell-facial-bar,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1454,S,PRB Architects,https://www.awwwards.com/sites/prb-architects,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1455,S,Léonard Agency,https://www.awwwards.com/sites/leonard-agency,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1456,S,Lewa House,https://www.awwwards.com/sites/lewa-house,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1457,S,Stykka,https://www.awwwards.com/sites/stykka,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1458,S,Cevitxef,https://www.awwwards.com/sites/cevitxef,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1459,S,Rider404,https://www.awwwards.com/sites/rider404,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1460,S,Studio Malvah,https://www.awwwards.com/sites/studio-malvah,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1461,S,Marseille by La Phase 5,https://www.awwwards.com/sites/marseille-by-la-phase-5,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1462,S,E.C.H.O.,https://www.awwwards.com/sites/e-c-h-o,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65
+1463,S,Tangan,https://www.awwwards.com/sites/tangan,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=65

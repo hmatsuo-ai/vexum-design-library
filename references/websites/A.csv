@@ -1,40 +1,78 @@
-priority,rank,name,url,focus
-1,A,Relume,https://www.relume.ai,product
-2,A,Oliver Gareis,https://www.olivergareis.com,typography
-3,A,Artiom Yakushev,https://www.art-yakushev.com,typography
-4,A,Arcway,https://arcway.ai,layout
-5,A,Driftime,https://2025.driftime.com,motion
-6,A,Dan Mall,https://danmall.com,editorial
-7,A,Caliper Studios,https://caliper.studio,brand
-8,A,Daniel Sun,https://danielsun.space,typography
-9,A,Heron AI,https://heronaiapp.com,product
-10,A,Provider,https://provider.studio,typography
-11,A,MCKP,https://mckp.live,motion
-12,A,Caractère Bois,https://www.caractere-bois.fr,ecommerce
-13,A,Interfaces,https://interfaces.dev,editorial
-14,A,Deadwater,https://www.deadwater.fr,typography
-15,A,House Of Yellow,https://houseofyellow.nl,brand
-16,A,Brikken+Co,https://www.brikken.co,brand
-17,A,Vasa,https://www.vasa.works,brand
-18,A,Fisch & Tisch,https://www.fischundtisch.de,ecommerce
-19,A,Dousan Miao,https://www.dousanmiao.com,layout
-20,A,Goodside,https://www.goodside.studio,brand
-21,A,Tokens Studio,https://tokens.studio,product
-22,A,Trionn,https://trionn.com,motion
-23,A,Juan Mora,https://juanmora.co,3d
-24,A,Copula Agency,https://copula.agency,brand
-25,A,Artem Shcherbakov,https://artemartemartem.com,illustration
-26,A,Modus Fōrma,https://www.modusforma.com.au,layout
-27,A,Kononenko Architectural Bureau,https://kononenkogroup.com,typography
-28,A,Nick Clement,https://nickclement.com,minimal
-29,A,Idyllic,https://idyllic.co.nz,brand
-30,A,Dirt,https://dirtverse.co,3d
-31,A,Wild,https://craft.wild.as,motion
-32,A,Christoph Rauscher,https://christophrauscher.de,layout
-33,A,KEI,https://kei-inc.jp,typography
-34,A,Cassandra Tang,https://www.cassandratang.com,minimal
-35,A,Desses,https://desses.co,typography
-36,A,Huts,https://huts.com,brand
-37,A,Good Secrets,https://goodsecrets.co,brand
-38,A,Philip Readman,https://www.philipreadman.com,typography
-39,A,Riesen Design,https://www.riesendesign.fi,brand
+priority,rank,name,url,focus,source,source_page
+1,A,Relume,https://www.relume.ai,product,A1 Gallery,https://www.a1.gallery
+2,A,Oliver Gareis,https://www.olivergareis.com,typography,A1 Gallery,https://www.a1.gallery
+3,A,Artiom Yakushev,https://www.art-yakushev.com,typography,A1 Gallery,https://www.a1.gallery
+4,A,Arcway,https://arcway.ai,layout,A1 Gallery,https://www.a1.gallery
+5,A,Driftime,https://2025.driftime.com,motion,A1 Gallery,https://www.a1.gallery
+6,A,Dan Mall,https://danmall.com,editorial,A1 Gallery,https://www.a1.gallery
+7,A,Caliper Studios,https://caliper.studio,brand,A1 Gallery,https://www.a1.gallery
+8,A,Daniel Sun,https://danielsun.space,typography,A1 Gallery,https://www.a1.gallery
+9,A,Heron AI,https://heronaiapp.com,product,A1 Gallery,https://www.a1.gallery
+10,A,Provider,https://provider.studio,typography,A1 Gallery,https://www.a1.gallery
+11,A,MCKP,https://mckp.live,motion,A1 Gallery,https://www.a1.gallery
+12,A,Caractère Bois,https://www.caractere-bois.fr,ecommerce,A1 Gallery,https://www.a1.gallery
+13,A,Interfaces,https://interfaces.dev,editorial,A1 Gallery,https://www.a1.gallery
+14,A,Deadwater,https://www.deadwater.fr,typography,A1 Gallery,https://www.a1.gallery
+15,A,House Of Yellow,https://houseofyellow.nl,brand,A1 Gallery,https://www.a1.gallery
+16,A,Brikken+Co,https://www.brikken.co,brand,A1 Gallery,https://www.a1.gallery
+17,A,Vasa,https://www.vasa.works,brand,A1 Gallery,https://www.a1.gallery
+18,A,Fisch & Tisch,https://www.fischundtisch.de,ecommerce,A1 Gallery,https://www.a1.gallery
+19,A,Dousan Miao,https://www.dousanmiao.com,layout,A1 Gallery,https://www.a1.gallery
+20,A,Goodside,https://www.goodside.studio,brand,A1 Gallery,https://www.a1.gallery
+21,A,Tokens Studio,https://tokens.studio,product,A1 Gallery,https://www.a1.gallery
+22,A,Trionn,https://trionn.com,motion,A1 Gallery,https://www.a1.gallery
+23,A,Juan Mora,https://juanmora.co,3d,A1 Gallery,https://www.a1.gallery
+24,A,Copula Agency,https://copula.agency,brand,A1 Gallery,https://www.a1.gallery
+25,A,Artem Shcherbakov,https://artemartemartem.com,illustration,A1 Gallery,https://www.a1.gallery
+26,A,Modus Fōrma,https://www.modusforma.com.au,layout,A1 Gallery,https://www.a1.gallery
+27,A,Kononenko Architectural Bureau,https://kononenkogroup.com,typography,A1 Gallery,https://www.a1.gallery
+28,A,Nick Clement,https://nickclement.com,minimal,A1 Gallery,https://www.a1.gallery
+29,A,Idyllic,https://idyllic.co.nz,brand,A1 Gallery,https://www.a1.gallery
+30,A,Dirt,https://dirtverse.co,3d,A1 Gallery,https://www.a1.gallery
+31,A,Wild,https://craft.wild.as,motion,A1 Gallery,https://www.a1.gallery
+32,A,Christoph Rauscher,https://christophrauscher.de,layout,A1 Gallery,https://www.a1.gallery
+33,A,KEI,https://kei-inc.jp,typography,A1 Gallery,https://www.a1.gallery
+34,A,Cassandra Tang,https://www.cassandratang.com,minimal,A1 Gallery,https://www.a1.gallery
+35,A,Desses,https://desses.co,typography,A1 Gallery,https://www.a1.gallery
+36,A,Huts,https://huts.com,brand,A1 Gallery,https://www.a1.gallery
+37,A,Good Secrets,https://goodsecrets.co,brand,A1 Gallery,https://www.a1.gallery
+38,A,Philip Readman,https://www.philipreadman.com,typography,A1 Gallery,https://www.a1.gallery
+39,A,Riesen Design,https://www.riesendesign.fi,brand,A1 Gallery,https://www.a1.gallery
+40,A,Phantom Studios,https://www.phantom.land/,brand,A1 Gallery,https://www.a1.gallery
+41,A,Michele Greco,https://www.michelegre.co/,portfolio,A1 Gallery,https://www.a1.gallery
+42,A,Glass abstract shapes,https://glass-abstract-animated-shapes.wannathis.one/,product,A1 Gallery,https://www.a1.gallery
+43,A,Victoria Gee,https://victoriagee.es/en,portfolio,A1 Gallery,https://www.a1.gallery
+44,A,Atlas by WorkOS,https://workos.com/atlas,product,A1 Gallery,https://www.a1.gallery
+45,A,COLLINS,https://wearecollins.com/,brand,A1 Gallery,https://www.a1.gallery
+46,A,The Resonance Studio,https://www.theresonance.studio/,brand,A1 Gallery,https://www.a1.gallery
+47,A,Michaël Bernard,https://www.michaelbernard.fr/,portfolio,A1 Gallery,https://www.a1.gallery
+48,A,Studio Heyday,https://heyday.ch/,brand,A1 Gallery,https://www.a1.gallery
+49,A,Frank Chimero,https://frankchimero.com/,portfolio,A1 Gallery,https://www.a1.gallery
+50,A,Collserola,https://collserola.com/,brand,A1 Gallery,https://www.a1.gallery
+51,A,Money in Check,https://moneyincheck.org/,product,A1 Gallery,https://www.a1.gallery
+52,A,Calendly,https://calendly.com/,product,A1 Gallery,https://www.a1.gallery
+53,A,Kalok Yeung,https://www.kalokyeung.com/,portfolio,A1 Gallery,https://www.a1.gallery
+54,A,Wx,https://ilyywx.com/,brand,A1 Gallery,https://www.a1.gallery
+55,A,Liquidities,https://www.liquidities.xyz/,portfolio,A1 Gallery,https://www.a1.gallery
+56,A,Jig Tailor,https://jigtailor.xyz/,portfolio,A1 Gallery,https://www.a1.gallery
+57,A,HiKeys—1977,https://www.hikeys1977.com/,product,A1 Gallery,https://www.a1.gallery
+58,A,Thayon,https://thayon.com/,brand,A1 Gallery,https://www.a1.gallery
+59,A,Hyper Effekt,https://hypereffekt.com/,brand,A1 Gallery,https://www.a1.gallery
+60,A,Glue,https://www.use-glue.com/,brand,A1 Gallery,https://www.a1.gallery
+61,A,Viacheslav Novoseltsev,https://vshslv.com/,portfolio,A1 Gallery,https://www.a1.gallery
+62,A,Strata,https://strata.ws/,product,A1 Gallery,https://www.a1.gallery
+63,A,Marius Bălaj,https://balajmarius.com/,portfolio,A1 Gallery,https://www.a1.gallery
+64,A,TerraPower,https://www.terrapower.com/,product,A1 Gallery,https://www.a1.gallery
+65,A,JARCOS,https://jarcos.work/,brand,A1 Gallery,https://www.a1.gallery
+66,A,Jordan Gilroy,https://www.jordangilroy.com/,portfolio,A1 Gallery,https://www.a1.gallery
+67,A,T for Troels,https://www.tfortroels.com/,portfolio,A1 Gallery,https://www.a1.gallery
+68,A,Marijana Pavlinić,https://marijanapav.com/,portfolio,A1 Gallery,https://www.a1.gallery
+69,A,Keya Vadgama,https://keyavadgama.com/,portfolio,A1 Gallery,https://www.a1.gallery
+70,A,Overtype,https://www.overtypefoundry.com/,portfolio,A1 Gallery,https://www.a1.gallery
+71,A,Thursday,https://thursday.studio/,brand,A1 Gallery,https://www.a1.gallery
+72,A,Peter Tarka,https://petertarka.com/,portfolio,A1 Gallery,https://www.a1.gallery
+73,A,Konolee,https://konolee.com/,portfolio,A1 Gallery,https://www.a1.gallery
+74,A,Iru,https://www.iru.com/,product,A1 Gallery,https://www.a1.gallery
+75,A,Ragged Edge,https://raggededge.com/,brand,A1 Gallery,https://www.a1.gallery
+76,A,Vucko,https://vucko.co/,portfolio,A1 Gallery,https://www.a1.gallery
+77,A,Ballpoint,https://www.weareballpoint.com/,brand,A1 Gallery,https://www.a1.gallery

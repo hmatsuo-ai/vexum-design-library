@@ -1,39 +1,77 @@
-priority,rank,name,url,focus
-925,Y,Flint,https://www.tryflint.com/,product
-926,Y,Workers Platform,https://workers.cloudflare.com/,product
-927,Y,Vite+,https://viteplus.dev/,product
-928,Y,Laravel Cloud,https://cloud.laravel.com/,product
-929,Y,Vision Trilingual School,https://ecolevision.com/en,product
-930,Y,Retool,https://retool.com/,product
-931,Y,Payload,https://payloadcms.com/,product
-932,Y,Shuttle,https://shuttle.zip/,product
-933,Y,Pipe,https://pipe.com/,product
-934,Y,Fabric,https://www.fabrichealth.com/,product
-935,Y,Raycast,https://www.raycast.com/,product
-936,Y,Artboard,https://artboard.studio/,product
-937,Y,Dimension,https://www.dimension.dev/,product
-938,Y,Wope,https://wope.com/,product
-939,Y,AuthKit,https://www.authkit.com/,product
-940,Y,Twingate,https://www.twingate.com/,product
-941,Y,Reflect,https://reflect.app/,product
-942,Y,GSAP,https://gsap.com/,product
-943,Y,Swim Club,https://swimclub.co/,ecommerce
-944,Y,Better Nights,https://www.betternights.com/,ecommerce
-945,Y,Every,https://every.to/,editorial
-946,Y,Tilt,https://tilt.com/,product
-947,Y,Essential,https://www.essential.com/,product
-948,Y,Geniestudio,https://geniestudio.app/,product
-949,Y,DeepJudge,https://www.deepjudge.ai/,product
-950,Y,Weavy,https://www.weavy.ai/,product
-951,Y,Arcade,https://www.arcade.software/,product
-952,Y,Pepette,https://www.pepette.co/,ecommerce
-953,Y,Dropbox Dash × McLaren F1,https://dash.dropbox.com/mclarenf1,landing
-954,Y,PrimeLink,https://www.primelink.io/,landing
-955,Y,Coherence,https://www.withcoherence.com/,landing
-956,Y,Keto,https://ketosoftware.com/,product
-957,Y,PlayerZero,https://playerzero.ai/,product
-958,Y,PostHog,https://posthog.com/,product
-959,Y,Tempo,https://tempo.xyz/,product
-960,Y,Operate,https://operate.so/,product
-961,Y,Tandem.bi,https://tandem.bi/,product
-962,Y,Shelby,https://shelby.xyz/,product
+priority,rank,name,url,focus,source,source_page
+1849,Y,Skyline Films,https://www.awwwards.com/sites/skyline-films,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1850,Y,davidebaratta.com,https://www.awwwards.com/sites/davidebaratta-com,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1851,Y,LEQB,https://www.awwwards.com/sites/leqb,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1852,Y,DDNA,https://www.awwwards.com/sites/ddna,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1853,Y,i-Spy,https://www.awwwards.com/sites/i-spy,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1854,Y,"Victor Work | Folio 20""",https://www.awwwards.com/sites/victor-work-20,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1855,Y,Swab The World,https://www.awwwards.com/sites/swab-the-world,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1856,Y,Erika Senft Miller,https://www.awwwards.com/sites/erika-senft-miller,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1857,Y,Statskogmillionen,https://www.awwwards.com/sites/statskogmillionen,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1858,Y,Let Girls Dream,https://www.awwwards.com/sites/let-girls-dream,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1859,Y,Mirage Festival - 8th Edition,https://www.awwwards.com/sites/mirage-festival-8th-edition,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1860,Y,We are ZIZO,https://www.awwwards.com/sites/we-are-zizo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1861,Y,nathan.tokyo,https://www.awwwards.com/sites/nathan-tokyo,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1862,Y,Bruno Ortolland,https://www.awwwards.com/sites/bruno-ortolland,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1863,Y,The Turn of the Screw,https://www.awwwards.com/sites/the-turn-of-the-screw,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1864,Y,Melriver,https://www.awwwards.com/sites/melriver-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1865,Y,Fitlab,https://www.awwwards.com/sites/fitlab,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1866,Y,Portes fermées,https://www.awwwards.com/sites/portes-fermees,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1867,Y,Hello from Here,https://www.awwwards.com/sites/hello-from-here,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1868,Y,RED Company,https://www.awwwards.com/sites/red-company,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=78
+1869,Y,Nightingale,https://www.awwwards.com/sites/nightingale,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1870,Y,Apple AirPods Pro,https://www.awwwards.com/sites/apple-airpods-pro,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1871,Y,Defeat B.O.C.O.,https://www.awwwards.com/sites/defeat-b-o-c-o,product,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1872,Y,RedCollar Font,https://www.awwwards.com/sites/redcollar-font,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1873,Y,The Bear and his Scarf,https://www.awwwards.com/sites/the-bear-and-his-scarf,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1874,Y,Hello Today,https://www.awwwards.com/sites/hello-today,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1875,Y,Jon Way Studio,https://www.awwwards.com/sites/jon-way-studio,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1876,Y,MYSTA ELECTRIC – TATTOO ARTIST,https://www.awwwards.com/sites/mysta-electric-tattoo-artist,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1877,Y,maxilla,https://www.awwwards.com/sites/maxilla-1,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1878,Y,Makers & Dreamers,https://www.awwwards.com/sites/makers-dreamers,product,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1879,Y,Helias Oils,https://www.awwwards.com/sites/helias-oils,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1880,Y,Jesper Landberg,https://www.awwwards.com/sites/jesper-landberg-2,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1881,Y,Monokai: a trip through Japan,https://www.awwwards.com/sites/monokai-a-trip-through-japan,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1882,Y,Andrew Leguay Folio 2020,https://www.awwwards.com/sites/andrew-leguay-folio-2020,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1883,Y,Emotive Feels,https://www.awwwards.com/sites/emotive-feels,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1884,Y,ULTIMA GSTAAD SWITZERLAND,https://www.awwwards.com/sites/ultima-gstaad-switzerland,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1885,Y,Darker Lights,https://www.awwwards.com/sites/darker-lights,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1886,Y,Toonami 2019,https://www.awwwards.com/sites/toonami-2019,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1887,Y,Helixes Inc.,https://www.awwwards.com/sites/helixes-inc,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1888,Y,Obys,https://www.awwwards.com/sites/obys,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1889,Y,Pantheone Audio,https://www.awwwards.com/sites/pantheone,product,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1890,Y,FPP,https://www.awwwards.com/sites/fpp,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1891,Y,MaxMara Bearing Gifts,https://www.awwwards.com/sites/maxmara-bearing-gifts,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1892,Y,Flat UI And A Half,https://www.awwwards.com/sites/flat-ui-and-a-half,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1893,Y,Furrow Studio,https://www.awwwards.com/sites/furrow-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1894,Y,Portfolio of Elena Saharova,https://www.awwwards.com/sites/portfolio-of-elena-saharova,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1895,Y,Plink by Mollie,https://www.awwwards.com/sites/plink-by-mollie,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1896,Y,Weird Christmas,https://www.awwwards.com/sites/weird-christmas,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1897,Y,Longshot Features,https://www.awwwards.com/sites/longshot-features,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1898,Y,Talia,https://www.awwwards.com/sites/talia,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1899,Y,Projects of the Year,https://www.awwwards.com/sites/projects-of-the-year,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=79
+1900,Y,Niki Lauda,https://www.awwwards.com/sites/niki-lauda,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1901,Y,Manrope Font,https://www.awwwards.com/sites/manrope-font,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1902,Y,Taro Yoshimura,https://www.awwwards.com/sites/taro-yoshimura,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1903,Y,Steer the Deer,https://www.awwwards.com/sites/steer-the-deer,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1904,Y,David William Baum,https://www.awwwards.com/sites/david-william-baum,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1905,Y,CANALS,https://www.awwwards.com/sites/canals,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1906,Y,Ilya Kulbachny,https://www.awwwards.com/sites/ilya-kulbachny,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1907,Y,Ultraviolet Way,https://www.awwwards.com/sites/ultraviolet-way,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1908,Y,Fuego Camina Conmigo,https://www.awwwards.com/sites/fuego-camina-conmigo,product,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1909,Y,#ZonaNorte,https://www.awwwards.com/sites/zonanorte,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1910,Y,Piano Trio Fest,https://www.awwwards.com/sites/piano-trio-fest,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1911,Y,Mouthwash,https://www.awwwards.com/sites/mouthwash,typography,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1912,Y,Esperanto,https://www.awwwards.com/sites/esperanto,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1913,Y,Lasca Studio,https://www.awwwards.com/sites/lasca-studio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1914,Y,Loop Japan,https://www.awwwards.com/sites/loop-japan,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1915,Y,Rimowa Unique,https://www.awwwards.com/sites/rimowa-unique,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1916,Y,Yuto Takahashi,https://www.awwwards.com/sites/yuto-takahashi,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1917,Y,Yaroflasher,https://www.awwwards.com/sites/yaroflasher,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1918,Y,Travelshift,https://www.awwwards.com/sites/travelshift,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1919,Y,UNLOCK YOU｜WW,https://www.awwwards.com/sites/unlock-you-ww,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1920,Y,The Scott Resort & Spa,https://www.awwwards.com/sites/the-scott-resort-spa,layout,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1921,Y,Sacha Tourtoulou - Portfolio,https://www.awwwards.com/sites/sacha-tourtoulou-portfolio,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1922,Y,The Geek Designer,https://www.awwwards.com/sites/the-geek-designer,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1923,Y,Limnia Modular Fine Jewelry,https://www.awwwards.com/sites/limnia-modular-fine-jewelry,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80
+1924,Y,The Urban Village Project,https://www.awwwards.com/sites/the-urban-village-project,motion,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=80

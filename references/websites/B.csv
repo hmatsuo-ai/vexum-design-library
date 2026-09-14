@@ -1,40 +1,78 @@
-priority,rank,name,url,focus
-40,B,Phantom Studios,https://www.phantom.land/,brand
-41,B,Michele Greco,https://www.michelegre.co/,portfolio
-42,B,Glass abstract shapes,https://glass-abstract-animated-shapes.wannathis.one/,product
-43,B,Victoria Gee,https://victoriagee.es/en,portfolio
-44,B,Atlas by WorkOS,https://workos.com/atlas,product
-45,B,COLLINS,https://wearecollins.com/,brand
-46,B,The Resonance Studio,https://www.theresonance.studio/,brand
-47,B,Michaël Bernard,https://www.michaelbernard.fr/,portfolio
-48,B,Studio Heyday,https://heyday.ch/,brand
-49,B,Frank Chimero,https://frankchimero.com/,portfolio
-50,B,Collserola,https://collserola.com/,brand
-51,B,Money in Check,https://moneyincheck.org/,product
-52,B,Calendly,https://calendly.com/,product
-53,B,Kalok Yeung,https://www.kalokyeung.com/,portfolio
-54,B,Wx,https://ilyywx.com/,brand
-55,B,Liquidities,https://www.liquidities.xyz/,portfolio
-56,B,Jig Tailor,https://jigtailor.xyz/,portfolio
-57,B,HiKeys—1977,https://www.hikeys1977.com/,product
-58,B,Thayon,https://thayon.com/,brand
-59,B,Hyper Effekt,https://hypereffekt.com/,brand
-60,B,Glue,https://www.use-glue.com/,brand
-61,B,Viacheslav Novoseltsev,https://vshslv.com/,portfolio
-62,B,Strata,https://strata.ws/,product
-63,B,Marius Bălaj,https://balajmarius.com/,portfolio
-64,B,TerraPower,https://www.terrapower.com/,product
-65,B,JARCOS,https://jarcos.work/,brand
-66,B,Jordan Gilroy,https://www.jordangilroy.com/,portfolio
-67,B,T for Troels,https://www.tfortroels.com/,portfolio
-68,B,Marijana Pavlinić,https://marijanapav.com/,portfolio
-69,B,Keya Vadgama,https://keyavadgama.com/,portfolio
-70,B,Overtype,https://www.overtypefoundry.com/,portfolio
-71,B,Thursday,https://thursday.studio/,brand
-72,B,Peter Tarka,https://petertarka.com/,portfolio
-73,B,Konolee,https://konolee.com/,portfolio
-74,B,Iru,https://www.iru.com/,product
-75,B,Ragged Edge,https://raggededge.com/,brand
-76,B,Vucko,https://vucko.co/,portfolio
-77,B,Ballpoint,https://www.weareballpoint.com/,brand
-78,B,The New Industrials,https://thenewindustrials.com/,landing
+priority,rank,name,url,focus,source,source_page
+78,B,The New Industrials,https://thenewindustrials.com/,landing,A1 Gallery,https://www.a1.gallery
+79,B,Afterwork Industries,https://madeafterwork.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+80,B,Designer Fund,https://designerfund.com/,product,A1 Gallery,https://www.a1.gallery
+81,B,Locomotive®,https://locomotive.ca/,brand,A1 Gallery,https://www.a1.gallery
+82,B,Tracebit,https://tracebit.com/,product,A1 Gallery,https://www.a1.gallery
+83,B,Music Videos I Like,https://music-videos.lsvs.cloud/grid,product,A1 Gallery,https://www.a1.gallery
+84,B,Sania Saleh,https://www.sania.io/,portfolio,A1 Gallery,https://www.a1.gallery
+85,B,Clay,https://www.clay.com/,product,A1 Gallery,https://www.a1.gallery
+86,B,Ploy,https://ploy.ai/,product,A1 Gallery,https://www.a1.gallery
+87,B,Artem Astakhov,https://hiartem.com/,portfolio,A1 Gallery,https://www.a1.gallery
+88,B,Route de Noël,https://www.routedenoel.com/en,product,A1 Gallery,https://www.a1.gallery
+89,B,Mora,https://mora.com/,product,A1 Gallery,https://www.a1.gallery
+90,B,Agentwork,https://agentwork.com/,product,A1 Gallery,https://www.a1.gallery
+91,B,Bailey Elith,https://www.baileyelith.com/,portfolio,A1 Gallery,https://www.a1.gallery
+92,B,AlterG,https://altergresources.com/,product,A1 Gallery,https://www.a1.gallery
+93,B,Ethan Suero,https://www.ethansuero.com/,brand,A1 Gallery,https://www.a1.gallery
+94,B,North of Zero,https://www.northofzero.dev/,brand,A1 Gallery,https://www.a1.gallery
+95,B,Andre Candido,https://andre-candido.com/,portfolio,A1 Gallery,https://www.a1.gallery
+96,B,Edoardo Lunardi,https://www.edoardolunardi.dev/,portfolio,A1 Gallery,https://www.a1.gallery
+97,B,Mollie,https://www.mollie.com/,product,A1 Gallery,https://www.a1.gallery
+98,B,Hugo Baron,https://nuageboi.fr/,portfolio,A1 Gallery,https://www.a1.gallery
+99,B,Jon Howell,https://www.jonhowell.com/,portfolio,A1 Gallery,https://www.a1.gallery
+100,B,Sofia Khegai,https://khegai.com/,portfolio,A1 Gallery,https://www.a1.gallery
+101,B,Alvin Leung,https://alvinn.design/,portfolio,A1 Gallery,https://www.a1.gallery
+102,B,Daniil Chebotarev,https://www.daniilch.design/,portfolio,A1 Gallery,https://www.a1.gallery
+103,B,Ko–T,https://ko-t.com/,portfolio,A1 Gallery,https://www.a1.gallery
+104,B,Vladimir Pushkarev,https://puschkarew.com/,portfolio,A1 Gallery,https://www.a1.gallery
+105,B,Impossible Foods,https://impossiblefoods.com/,product,A1 Gallery,https://www.a1.gallery
+106,B,Vendredi Society,https://vendredi-society.com/,brand,A1 Gallery,https://www.a1.gallery
+107,B,Modern Practice,https://itsmodernpractice.com/,brand,A1 Gallery,https://www.a1.gallery
+108,B,MONOLOG,https://bymonolog.com/,brand,A1 Gallery,https://www.a1.gallery
+109,B,House of Honey,https://www.houseofhoney.com/,brand,A1 Gallery,https://www.a1.gallery
+110,B,Agency Habitat,https://agencyhabitat.com/,brand,A1 Gallery,https://www.a1.gallery
+111,B,Belle Duffner,https://belleduffner.com/,portfolio,A1 Gallery,https://www.a1.gallery
+112,B,New Arc,https://newarc.io/,brand,A1 Gallery,https://www.a1.gallery
+113,B,MKTLM,https://mktlm.obys.agency/,portfolio,A1 Gallery,https://www.a1.gallery
+114,B,Letters,https://letters.app/,product,A1 Gallery,https://www.a1.gallery
+115,B,STUDIO HERRSTRÖM,https://www.studioherrstrom.com/,brand,A1 Gallery,https://www.a1.gallery
+116,B,Rabbits Black,https://rabbitsblack.com/,brand,A1 Gallery,https://www.a1.gallery
+117,B,Willy Brauner,https://willybrauner.com/,portfolio,A1 Gallery,https://www.a1.gallery
+118,B,Legora,https://legora.com/,product,A1 Gallery,https://www.a1.gallery
+119,B,Nordiska Museet,https://www.nordiskamuseet.se/en,product,A1 Gallery,https://www.a1.gallery
+120,B,Off The Wall,https://offthewall.studio/,brand,A1 Gallery,https://www.a1.gallery
+121,B,Clay Cup,https://claycup.com/,product,A1 Gallery,https://www.a1.gallery
+122,B,Off Menu,https://www.offmenu.design/,brand,A1 Gallery,https://www.a1.gallery
+123,B,Typography In Web Design,https://tiwd.courses/,landing,A1 Gallery,https://www.a1.gallery
+124,B,Turno,https://turnoev.com/,product,A1 Gallery,https://www.a1.gallery
+125,B,forpeople,https://forpeople.com/,brand,A1 Gallery,https://www.a1.gallery
+126,B,ITEM,https://item-amsterdam.nl/,ecommerce,A1 Gallery,https://www.a1.gallery
+127,B,Uncut,https://uncut.wtf/,ecommerce,A1 Gallery,https://www.a1.gallery
+128,B,Circa,https://circa.so/,landing,A1 Gallery,https://www.a1.gallery
+129,B,Fey,https://www.fey.com/,product,A1 Gallery,https://www.a1.gallery
+130,B,Girl,https://www.girl.studio/,brand,A1 Gallery,https://www.a1.gallery
+131,B,Audion,https://www.audion.ai/,product,A1 Gallery,https://www.a1.gallery
+132,B,Aave,https://aave.com/,product,A1 Gallery,https://www.a1.gallery
+133,B,Visual Domain,https://www.visualdomain.com.au/,brand,A1 Gallery,https://www.a1.gallery
+134,B,Tailscale,https://tailscale.com/,product,A1 Gallery,https://www.a1.gallery
+135,B,Stōkt Creative Co.,https://wearestokt.com/,brand,A1 Gallery,https://www.a1.gallery
+136,B,Redo Media,https://redomedia.co/,brand,A1 Gallery,https://www.a1.gallery
+137,B,Sergey Lisovskiy,https://lisovskiy.work/,portfolio,A1 Gallery,https://www.a1.gallery
+138,B,Red Flags For Cash,https://redflagsforcash.com/,product,A1 Gallery,https://www.a1.gallery
+139,B,AAA24,https://aaa24.a24films.com/,product,A1 Gallery,https://www.a1.gallery
+140,B,Dapper,https://www.dapper.agency/,brand,A1 Gallery,https://www.a1.gallery
+141,B,Zenwood Studio,https://zenwood.studio/,portfolio,A1 Gallery,https://www.a1.gallery
+142,B,Aspen Search,https://www.aspensearch.com/,brand,A1 Gallery,https://www.a1.gallery
+143,B,The General Intelligence Company,https://www.generalintelligencecompany.com/,brand,A1 Gallery,https://www.a1.gallery
+144,B,Stephan Mann,https://www.stvxmvnn.com/,portfolio,A1 Gallery,https://www.a1.gallery
+145,B,Maximilian Kaspar,https://www.maximiliankaspar.com/,portfolio,A1 Gallery,https://www.a1.gallery
+146,B,Outfit,https://outfit.hellohello.is/,ecommerce,A1 Gallery,https://www.a1.gallery
+147,B,Vecton,https://vecton.ai/,product,A1 Gallery,https://www.a1.gallery
+148,B,Deeo Studio,https://deeo.studio/,brand,A1 Gallery,https://www.a1.gallery
+149,B,VisionAI,https://visionai.co/,product,A1 Gallery,https://www.a1.gallery
+150,B,Digital Metal,https://www.digitalmetal.io/,product,A1 Gallery,https://www.a1.gallery
+151,B,United Carriers,https://unitedcarriers.com/,product,A1 Gallery,https://www.a1.gallery
+152,B,The Future in Black,https://www.thefutureinblack.com/,brand,A1 Gallery,https://www.a1.gallery
+153,B,SCS,https://o-scs.com/,brand,A1 Gallery,https://www.a1.gallery
+154,B,Tom Cavill,https://tomcavill.com/,portfolio,A1 Gallery,https://www.a1.gallery
