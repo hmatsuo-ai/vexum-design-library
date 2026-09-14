@@ -1,0 +1,46 @@
+{
+  "method": "Awwwardsの作品タグと明示的に一致した機能だけを抽出。タグ未取得の既存サイトは未判定として分離。",
+  "features": {
+    "cutin-and-page-transition": {
+      "label": "カットイン・画面遷移",
+      "count": 606
+    },
+    "fixed-ui-and-navigation": {
+      "label": "固定UI・ナビゲーション候補",
+      "count": 146
+    },
+    "background-motion": {
+      "label": "背景演出候補",
+      "count": 532
+    },
+    "scroll-driven": {
+      "label": "スクロール連動",
+      "count": 317
+    },
+    "microinteractions": {
+      "label": "マイクロインタラクション",
+      "count": 374
+    },
+    "filters-and-effects": {
+      "label": "フィルター・視覚エフェクト",
+      "count": 125
+    },
+    "media-and-sound": {
+      "label": "映像・音声",
+      "count": 236
+    },
+    "gallery-and-browsing": {
+      "label": "ギャラリー・閲覧UI",
+      "count": 101
+    },
+    "responsive": {
+      "label": "レスポンシブ対応",
+      "count": 135
+    },
+    "forms-and-input": {
+      "label": "フォーム・入力UI",
+      "count": 5
+    }
+  },
+  "unknown_count": 1000
+}

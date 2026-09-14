@@ -41,6 +41,11 @@ references/
     ├── motion.csv
     ├── typography.csv
     └── ...
+└── features/
+    ├── cutin-and-page-transition.csv
+    ├── fixed-ui-and-navigation.csv
+    ├── background-motion.csv
+    └── ...
 ```
 
 CSV schema:
@@ -52,3 +57,5 @@ priority,rank,name,url,focus,source,source_page
 `focus` はVEXUM側で参照するときの大分類（motion / typography / layout / brand / product / editorial / ecommerce など）です。
 
 `references/categories/` には、同じレコードを `focus` 別に保存します。案件の目的から先に探したいときは、こちらを入口にします。
+
+`references/features/` は、カットイン、固定UI・ナビゲーション、背景演出、スクロール連動、マイクロインタラクションなど、実装したい機能を起点にした一覧です。各行の `evidence` に、抽出に用いた公開カタログ上のタグを残します。
