@@ -1,78 +1,117 @@
 priority,rank,name,url,focus,source,source_page
-386,F,Refresh Studio,https://www.ctrlr.studio/,brand,A1 Gallery,https://www.a1.gallery
-387,F,Lazy Sundays,https://www.lazysundays.studio/,brand,A1 Gallery,https://www.a1.gallery
-388,F,Design Business Company,https://dbco.online/,brand,A1 Gallery,https://www.a1.gallery
-389,F,Gulp Studio,https://www.gulpstudio.com/,portfolio,A1 Gallery,https://www.a1.gallery
-390,F,Aaron Rolston,https://aaronrolston.com/,portfolio,A1 Gallery,https://www.a1.gallery
-391,F,Blunarova,https://www.blunarova.com/,portfolio,A1 Gallery,https://www.a1.gallery
-392,F,Bradley Ziffer,https://bradleyziffer.com/,portfolio,A1 Gallery,https://www.a1.gallery
-393,F,Marco Almeida,https://www.aboutmarco.com/,portfolio,A1 Gallery,https://www.a1.gallery
-394,F,Elvin Hu,https://www.elvinhu.com/,portfolio,A1 Gallery,https://www.a1.gallery
-395,F,Dan Tase,https://www.dantase.com/,portfolio,A1 Gallery,https://www.a1.gallery
-396,F,Repponen,https://repponen.com/,portfolio,A1 Gallery,https://www.a1.gallery
-397,F,General Dental,https://www.generaldental.ca/,product,A1 Gallery,https://www.a1.gallery
-398,F,Echofi,https://echofi-bp.webflow.io/,product,A1 Gallery,https://www.a1.gallery
-399,F,Pattern Breaking,https://patternbreak.ing/,brand,A1 Gallery,https://www.a1.gallery
-400,F,Emily Durham,https://emilydurham.org/,portfolio,A1 Gallery,https://www.a1.gallery
-401,F,Mymind,https://mymind.com/,product,A1 Gallery,https://www.a1.gallery
-402,F,Annnimate,https://www.annnimate.com/,product,A1 Gallery,https://www.a1.gallery
-403,F,Precious,https://www.workbyprecious.com/,brand,A1 Gallery,https://www.a1.gallery
-404,F,Nice People,https://nicepeople.com/,brand,A1 Gallery,https://www.a1.gallery
-405,F,Primary Studio,https://www.primary.studio/,brand,A1 Gallery,https://www.a1.gallery
-406,F,Bakken & Bæck,https://bakkenbaeck.com/,brand,A1 Gallery,https://www.a1.gallery
-407,F,ChatLabs,https://chatlabs.com/,product,A1 Gallery,https://www.a1.gallery
-408,F,VALIENTE®,https://valientebrands.com/,brand,A1 Gallery,https://www.a1.gallery
-409,F,New Studio,https://www.new.studio/,brand,A1 Gallery,https://www.a1.gallery
-410,F,Delcio Designs,https://www.delciodesigns.com/,portfolio,A1 Gallery,https://www.a1.gallery
-411,F,Amna Javed,https://amnajaved.com/,portfolio,A1 Gallery,https://www.a1.gallery
-412,F,Lift Type,https://www.lift-type.fr/,portfolio,A1 Gallery,https://www.a1.gallery
-413,F,288 4th Ave,https://288bk.com/,product,A1 Gallery,https://www.a1.gallery
-414,F,Integrated Biosciences,https://integratedbiosciences.com/,product,A1 Gallery,https://www.a1.gallery
-415,F,Paradigm,https://www.paradigmai.com/,product,A1 Gallery,https://www.a1.gallery
-416,F,Open Purpose,https://openpurpose.com/,brand,A1 Gallery,https://www.a1.gallery
-417,F,AREA 17,https://area17.com/,brand,A1 Gallery,https://www.a1.gallery
-418,F,Wine Diplomacy,https://wine-diplomacy.ro/,product,A1 Gallery,https://www.a1.gallery
-419,F,SERIOUS.BUSINESS,https://serious.business/,brand,A1 Gallery,https://www.a1.gallery
-420,F,Lorenzo Cabra,https://lorenzocabra.xyz/,portfolio,A1 Gallery,https://www.a1.gallery
-421,F,Descript,https://www.descript.com/,product,A1 Gallery,https://www.a1.gallery
-422,F,Liquidity,https://www.liquidity.com/,product,A1 Gallery,https://www.a1.gallery
-423,F,Peec AI,https://peec.ai/,product,A1 Gallery,https://www.a1.gallery
-424,F,Murmure,https://murmure.me/,brand,A1 Gallery,https://www.a1.gallery
-425,F,WaxyWeb,https://www.waxyweb.agency/,brand,A1 Gallery,https://www.a1.gallery
-426,F,Sharp Type,https://www.sharptype.co/,product,A1 Gallery,https://www.a1.gallery
-427,F,ChatGPT Atlas,https://chatgpt.com/atlas,product,A1 Gallery,https://www.a1.gallery
-428,F,Savor,https://www.savor.it/,product,A1 Gallery,https://www.a1.gallery
-429,F,L'Étude,https://letude.group/,brand,A1 Gallery,https://www.a1.gallery
-430,F,Elegant Seagulls,https://www.elegantseagulls.com/,brand,A1 Gallery,https://www.a1.gallery
-431,F,Daniella Marynova,https://hellodani.co/,portfolio,A1 Gallery,https://www.a1.gallery
-432,F,Semplice V7,https://www.semplice.com/v7,product,A1 Gallery,https://www.a1.gallery
-433,F,Control,https://cntrl.site/,product,A1 Gallery,https://www.a1.gallery
-434,F,Krea,https://www.krea.ai/,product,A1 Gallery,https://www.a1.gallery
-435,F,Ona,https://ona.com/,product,A1 Gallery,https://www.a1.gallery
-436,F,Radial,https://radial.org/,product,A1 Gallery,https://www.a1.gallery
-437,F,Alma,https://www.alma.food/,product,A1 Gallery,https://www.a1.gallery
-438,F,Zig Zag Creative,https://www.zigzagcreative.co/,brand,A1 Gallery,https://www.a1.gallery
-439,F,Pacer,https://www.pacer.studio/,brand,A1 Gallery,https://www.a1.gallery
-440,F,Valentin,https://www.heyvalentin.club/,portfolio,A1 Gallery,https://www.a1.gallery
-441,F,Studio Jud,https://studiojud.com/,product,A1 Gallery,https://www.a1.gallery
-442,F,Flexion Robotics,https://flexion.ai/,product,A1 Gallery,https://www.a1.gallery
-443,F,Spaces,https://spaces.is/,product,A1 Gallery,https://www.a1.gallery
-444,F,Family,https://family.co/,product,A1 Gallery,https://www.a1.gallery
-445,F,Gosteli-Archiv,https://www.gosteli-archiv.ch/en,editorial,A1 Gallery,https://www.a1.gallery
-446,F,Caleomag,https://www.caleomag.com/,editorial,A1 Gallery,https://www.a1.gallery
-447,F,Coinsetters,https://www.coinsetters.io/,brand,A1 Gallery,https://www.a1.gallery
-448,F,Aside,https://aside.com/,product,A1 Gallery,https://www.a1.gallery
-449,F,Etched,https://www.etched.com/,product,A1 Gallery,https://www.a1.gallery
-450,F,Canopy,https://canopyseo.com/,product,A1 Gallery,https://www.a1.gallery
-451,F,Burak Başcı,https://burakbasci.com/,portfolio,A1 Gallery,https://www.a1.gallery
-452,F,Zerodois,https://zerodois.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-453,F,Daydream 1820,https://daydream1820.com/en,ecommerce,A1 Gallery,https://www.a1.gallery
-454,F,Potion,https://mixpotion.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-455,F,Litebox,https://litebox.ai/,brand,A1 Gallery,https://www.a1.gallery
-456,F,Illo,https://illo.tv/,brand,A1 Gallery,https://www.a1.gallery
-457,F,Pitch-Works,https://pitch.works/,brand,A1 Gallery,https://www.a1.gallery
-458,F,Holland Design,https://www.hollanddesign.ca/,brand,A1 Gallery,https://www.a1.gallery
-459,F,Self Aware,https://selfaware.studio/,brand,A1 Gallery,https://www.a1.gallery
-460,F,North,https://www.northmail.app/,product,A1 Gallery,https://www.a1.gallery
-461,F,Menkind,https://menkind.co/en,product,A1 Gallery,https://www.a1.gallery
-462,F,Autonomous,https://becomeautonomous.com/,product,A1 Gallery,https://www.a1.gallery
+581,F,OEM,https://oem.care/,ecommerce,A1 Gallery,https://www.a1.gallery
+582,F,Recess,https://ourrecess.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+583,F,hers,https://www.forhers.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+584,F,Endex,https://endex.ai/,product,A1 Gallery,https://www.a1.gallery
+585,F,Basewell,https://www.basewell.com/,product,A1 Gallery,https://www.a1.gallery
+586,F,DICE,https://dice.fm/,product,A1 Gallery,https://www.a1.gallery
+587,F,Penny Pension,https://pennypension.com/,product,A1 Gallery,https://www.a1.gallery
+588,F,Devouring Details,https://devouringdetails.com/,product,A1 Gallery,https://www.a1.gallery
+589,F,ClickUp,https://clickup.com/,product,A1 Gallery,https://www.a1.gallery
+590,F,Helio,https://helio.cloud/,product,A1 Gallery,https://www.a1.gallery
+591,F,Frontify,https://www.frontify.com/en,product,A1 Gallery,https://www.a1.gallery
+592,F,Reframed,https://reframedbrand.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+593,F,Causal,https://www.causal.app/,product,A1 Gallery,https://www.a1.gallery
+594,F,Outseta,https://www.outseta.com/,product,A1 Gallery,https://www.a1.gallery
+595,F,Hypra,https://hypra.studio/,product,A1 Gallery,https://www.a1.gallery
+596,F,Glide,https://www.glideapps.com/,product,A1 Gallery,https://www.a1.gallery
+597,F,Finta,https://www.finta.com/,product,A1 Gallery,https://www.a1.gallery
+598,F,Superlocal,https://superlocaldesign.com/,product,A1 Gallery,https://www.a1.gallery
+599,F,Persephone,https://persephone.bio/,product,A1 Gallery,https://www.a1.gallery
+600,F,Zapier,https://zapier.com/,product,A1 Gallery,https://www.a1.gallery
+601,F,G . F Smith,https://www.gfsmith.com/,product,A1 Gallery,https://www.a1.gallery
+602,F,Circula,https://www.circula.com/en,product,A1 Gallery,https://www.a1.gallery
+603,F,Muse,https://www.musesoftware.ai/,product,A1 Gallery,https://www.a1.gallery
+604,F,Aptos,https://aptosnetwork.com/,product,A1 Gallery,https://www.a1.gallery
+605,F,Luffu,https://www.luffu.com/,product,A1 Gallery,https://www.a1.gallery
+606,F,Spellbook,https://www.spellbook.legal/,product,A1 Gallery,https://www.a1.gallery
+607,F,Stripe Sessions,https://stripesessions.com/,product,A1 Gallery,https://www.a1.gallery
+608,F,Bird,https://bird.com/,product,A1 Gallery,https://www.a1.gallery
+609,F,TwelveLabs,https://www.twelvelabs.io/,product,A1 Gallery,https://www.a1.gallery
+610,F,Tally,https://tally.so/,product,A1 Gallery,https://www.a1.gallery
+611,F,GoCardless,https://gocardless.com/,product,A1 Gallery,https://www.a1.gallery
+612,F,Maggie App,https://maggie-app.com/,product,A1 Gallery,https://www.a1.gallery
+613,F,Voy,https://www.joinvoy.com/,product,A1 Gallery,https://www.a1.gallery
+614,F,Cofactr,https://www.cofactr.com/,product,A1 Gallery,https://www.a1.gallery
+615,F,LocalCan,https://www.localcan.com/,product,A1 Gallery,https://www.a1.gallery
+616,F,Willis Tower,https://www.willistower.com/,product,A1 Gallery,https://www.a1.gallery
+617,F,Savvy cal,https://savvycal.com/,product,A1 Gallery,https://www.a1.gallery
+618,F,Offgrid,https://www.offgrid-design.co/,product,A1 Gallery,https://www.a1.gallery
+619,F,Atomize,https://atomizedesign.com/,product,A1 Gallery,https://www.a1.gallery
+620,F,Partech,https://partechpartners.com/,product,A1 Gallery,https://www.a1.gallery
+621,F,Bounti,https://bounti.co/,product,A1 Gallery,https://www.a1.gallery
+622,F,Amie,https://amie.so/,product,A1 Gallery,https://www.a1.gallery
+623,F,Jitter,https://jitter.video/,product,A1 Gallery,https://www.a1.gallery
+624,F,Ditto,https://www.trustditto.com/,product,A1 Gallery,https://www.a1.gallery
+625,F,Quin,https://www.heyquin.io/,product,A1 Gallery,https://www.a1.gallery
+626,F,Carrot,https://carrot.tech/,product,A1 Gallery,https://www.a1.gallery
+627,F,The Finnish Institute in the UK and Ireland,https://fininst.uk/,product,A1 Gallery,https://www.a1.gallery
+628,F,Agentcard,https://www.agentcard.sh/,product,A1 Gallery,https://www.a1.gallery
+629,F,Atlassian Teamwork Graph,https://teamworkgraph.com/,product,A1 Gallery,https://www.a1.gallery
+630,F,Armory,https://www.armory.in/,product,A1 Gallery,https://www.a1.gallery
+631,F,NoGood,https://nogood.studio/,portfolio,A1 Gallery,https://www.a1.gallery
+632,F,Touchy Coffee,https://touchycoffee.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+633,F,Eislab,https://eis-lab.de/en-us,ecommerce,A1 Gallery,https://www.a1.gallery
+634,F,Dirty Vine,https://dirtyvine.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+635,F,Atlas,https://atlascard.com/,product,A1 Gallery,https://www.a1.gallery
+636,F,Wittl,https://www.wittl.co/,product,A1 Gallery,https://www.a1.gallery
+637,F,Runway,https://runwayml.com/,product,A1 Gallery,https://www.a1.gallery
+638,F,incident.io,https://incident.io/,product,A1 Gallery,https://www.a1.gallery
+639,F,Valley,https://joinvalley.co/,product,A1 Gallery,https://www.a1.gallery
+640,F,Mercury,https://mercury.com/,product,A1 Gallery,https://www.a1.gallery
+641,F,The Webflow Way,https://webflow.com/webflow-way,product,A1 Gallery,https://www.a1.gallery
+642,F,Prime UI,https://primeui.com/,product,A1 Gallery,https://www.a1.gallery
+643,F,Overmind,https://www.overmindlab.ai/,product,A1 Gallery,https://www.a1.gallery
+644,F,XBOW,https://xbow.com/,product,A1 Gallery,https://www.a1.gallery
+645,F,Wireframe,https://wireframe.co/,brand,A1 Gallery,https://www.a1.gallery
+646,F,Shape,https://madebyshape.co.uk/,brand,A1 Gallery,https://www.a1.gallery
+647,F,YMU,https://www.ymugroup.com/,brand,A1 Gallery,https://www.a1.gallery
+648,F,Uttkarsh Mandaknale,https://www.uttkarsh.design/,portfolio,A1 Gallery,https://www.a1.gallery
+649,F,Tola Invoice,https://invoice.tolahq.com/,landing,A1 Gallery,https://www.a1.gallery
+650,F,Planhat,https://www.planhat.com/keynote,product,A1 Gallery,https://www.a1.gallery
+651,F,ElevenLabs,https://elevenlabs.io/,product,A1 Gallery,https://www.a1.gallery
+652,F,OnRamp 2025,https://events.ramp.com/onrampnewyork2025,product,A1 Gallery,https://www.a1.gallery
+653,F,Maito,https://getmaito.com/,product,A1 Gallery,https://www.a1.gallery
+654,F,Cure51,https://www.cure51.com/,product,A1 Gallery,https://www.a1.gallery
+655,F,Noramble,https://noramble.co.uk/,brand,A1 Gallery,https://www.a1.gallery
+656,F,Iventions,https://iventions.com/,brand,A1 Gallery,https://www.a1.gallery
+657,F,Studio Meraki,https://www.merakidigitalstudio.com/,brand,A1 Gallery,https://www.a1.gallery
+658,F,Konpo,https://www.konpo.studio/,brand,A1 Gallery,https://www.a1.gallery
+659,F,Ayda Oz,https://www.aydaoz.co/,portfolio,A1 Gallery,https://www.a1.gallery
+660,F,Fairgrounds,https://www.visitfairgrounds.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+661,F,Arrival,https://arrival.com/,product,A1 Gallery,https://www.a1.gallery
+662,F,Sana,https://sanalabs.com/,product,A1 Gallery,https://www.a1.gallery
+663,F,Metaview,https://www.metaview.ai/,product,A1 Gallery,https://www.a1.gallery
+664,F,Runner,https://runner.now/,product,A1 Gallery,https://www.a1.gallery
+665,F,Unkey,https://www.unkey.com/,product,A1 Gallery,https://www.a1.gallery
+666,F,Clarasight,https://www.clarasight.com/,product,A1 Gallery,https://www.a1.gallery
+667,F,Elevant,https://elevant.com.au/,product,A1 Gallery,https://www.a1.gallery
+668,F,Giga,https://giga.ai/,product,A1 Gallery,https://www.a1.gallery
+669,F,LangChain,https://www.langchain.com/,product,A1 Gallery,https://www.a1.gallery
+670,F,Good Friends,https://goodfriendsagency.com/,brand,A1 Gallery,https://www.a1.gallery
+671,F,Arta Labs,https://www.artalabs.com/,brand,A1 Gallery,https://www.a1.gallery
+672,F,Interfacer,https://interfacer.co/,brand,A1 Gallery,https://www.a1.gallery
+673,F,SEATED,https://seated.nyc/,brand,A1 Gallery,https://www.a1.gallery
+674,F,Cappen,https://cappen.com/,brand,A1 Gallery,https://www.a1.gallery
+675,F,Igma,https://igma.im/,portfolio,A1 Gallery,https://www.a1.gallery
+676,F,Notion,https://www.notion.com/,product,A1 Gallery,https://www.a1.gallery
+677,F,Figma Config,https://config.figma.com/,product,A1 Gallery,https://www.a1.gallery
+678,F,Airloom,https://www.airloom.energy/,product,A1 Gallery,https://www.a1.gallery
+679,F,Dia,https://www.diabrowser.com/,product,A1 Gallery,https://www.a1.gallery
+680,F,Avax.network,https://www.avax.network/,product,A1 Gallery,https://www.a1.gallery
+681,F,Truus,https://truus.co/,brand,A1 Gallery,https://www.a1.gallery
+682,F,Early Works,https://www.early.works/,brand,A1 Gallery,https://www.a1.gallery
+683,F,NewWorld,https://newworld.inc/,brand,A1 Gallery,https://www.a1.gallery
+684,F,Jords+Co,https://www.jords.co.uk/,brand,A1 Gallery,https://www.a1.gallery
+685,F,Jordan Jenkins,https://www.jkane.co/,portfolio,A1 Gallery,https://www.a1.gallery
+686,F,Eduard Bodak,https://www.eduardbodak.com/,portfolio,A1 Gallery,https://www.a1.gallery
+687,F,Fabric,https://fabric.so/,product,A1 Gallery,https://www.a1.gallery
+688,F,Stripe Dev,https://stripe.dev/,product,A1 Gallery,https://www.a1.gallery
+689,F,OFFF 2025,https://www.offf.barcelona/,product,A1 Gallery,https://www.a1.gallery
+690,F,Reown,https://reown.com/,product,A1 Gallery,https://www.a1.gallery
+691,F,MMI Festival,https://festival.mmilens.fr/,product,A1 Gallery,https://www.a1.gallery
+692,F,OWO,https://owo.app/,product,A1 Gallery,https://www.a1.gallery
+693,F,V7 Go,https://www.v7labs.com/,product,A1 Gallery,https://www.a1.gallery
+694,F,Lovart,https://www.lovart.ai/,product,A1 Gallery,https://www.a1.gallery
+695,F,HiPortfolio,https://hiportfolio.co/,brand,A1 Gallery,https://www.a1.gallery
+696,F,Juice,https://www.juice.agency/,brand,A1 Gallery,https://www.a1.gallery

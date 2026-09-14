@@ -3,43 +3,43 @@
   "features": {
     "cutin-and-page-transition": {
       "label": "カットイン・画面遷移",
-      "count": 606
+      "count": 1104
     },
     "fixed-ui-and-navigation": {
       "label": "固定UI・ナビゲーション候補",
-      "count": 146
+      "count": 360
     },
     "background-motion": {
       "label": "背景演出候補",
-      "count": 532
+      "count": 949
     },
     "scroll-driven": {
       "label": "スクロール連動",
-      "count": 317
+      "count": 549
     },
     "microinteractions": {
       "label": "マイクロインタラクション",
-      "count": 374
+      "count": 408
     },
     "filters-and-effects": {
       "label": "フィルター・視覚エフェクト",
-      "count": 125
+      "count": 157
     },
     "media-and-sound": {
       "label": "映像・音声",
-      "count": 236
+      "count": 503
     },
     "gallery-and-browsing": {
       "label": "ギャラリー・閲覧UI",
-      "count": 101
+      "count": 112
     },
     "responsive": {
       "label": "レスポンシブ対応",
-      "count": 135
+      "count": 429
     },
     "forms-and-input": {
       "label": "フォーム・入力UI",
-      "count": 5
+      "count": 9
     }
   },
   "unknown_count": 1000

@@ -1,63 +1,91 @@
 priority,rank,name,url,focus,source,source_page
 12,A,Caractère Bois,https://www.caractere-bois.fr,ecommerce,A1 Gallery,https://www.a1.gallery
 18,A,Fisch & Tisch,https://www.fischundtisch.de,ecommerce,A1 Gallery,https://www.a1.gallery
-79,B,Afterwork Industries,https://madeafterwork.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+79,A,Afterwork Industries,https://madeafterwork.com/,ecommerce,A1 Gallery,https://www.a1.gallery
 126,B,ITEM,https://item-amsterdam.nl/,ecommerce,A1 Gallery,https://www.a1.gallery
 127,B,Uncut,https://uncut.wtf/,ecommerce,A1 Gallery,https://www.a1.gallery
 146,B,Outfit,https://outfit.hellohello.is/,ecommerce,A1 Gallery,https://www.a1.gallery
-176,C,Seed,https://seed.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-181,C,Aether 1,https://www.aether1.ai/,ecommerce,A1 Gallery,https://www.a1.gallery
-227,C,Cob,https://cobfoods.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-228,C,Darkroom,https://www.darkroom.au/,ecommerce,A1 Gallery,https://www.a1.gallery
-247,D,ALSO,https://ridealso.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-254,D,Revitin,https://revitin.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-260,D,Collider,https://www.drinkcollider.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-261,D,Pelata Pieces,https://www.pelatapieces.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-281,D,Mostly Objects,https://mostlyobjects.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-282,D,DUA™,https://duabyab.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-300,D,Graza,https://www.graza.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-301,D,Velora Home,https://www.velorahome.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-318,E,New Ground Coffee,https://www.newgroundcoffee.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-319,E,Monolith,https://monolith.nyc/,ecommerce,A1 Gallery,https://www.a1.gallery
-320,E,Redbrick,https://redbrick.coffee/,ecommerce,A1 Gallery,https://www.a1.gallery
-452,F,Zerodois,https://zerodois.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-453,F,Daydream 1820,https://daydream1820.com/en,ecommerce,A1 Gallery,https://www.a1.gallery
-454,F,Potion,https://mixpotion.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-488,G,re_,https://regrocery.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-557,H,Agronomy Workshop,https://agronomywork.shop/,ecommerce,A1 Gallery,https://www.a1.gallery
-558,H,Kalstore®,https://kal-store.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-571,H,AirPods Pro 3,https://www.apple.com/airpods-pro,ecommerce,A1 Gallery,https://www.a1.gallery
-572,H,Curated Supply,https://curated.supply/,ecommerce,A1 Gallery,https://www.a1.gallery
-579,H,The Stacked Store,https://stackedstore.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-580,H,Arturel,https://arturel.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-581,H,OEM,https://oem.care/,ecommerce,A1 Gallery,https://www.a1.gallery
-582,H,Recess,https://ourrecess.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-583,H,hers,https://www.forhers.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-592,H,Reframed,https://reframedbrand.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-632,I,Touchy Coffee,https://touchycoffee.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-633,I,Eislab,https://eis-lab.de/en-us,ecommerce,A1 Gallery,https://www.a1.gallery
-634,I,Dirty Vine,https://dirtyvine.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-660,I,Fairgrounds,https://www.visitfairgrounds.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-748,J,Matic,https://maticrobots.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-749,J,The Unwash,https://theunwash.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-818,K,Permian,https://permianworld.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-821,K,Pixelier Mache,https://www.pixeliermache.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-943,M,Swim Club,https://swimclub.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-944,M,Better Nights,https://www.betternights.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-952,M,Pepette,https://www.pepette.co/,ecommerce,A1 Gallery,https://www.a1.gallery
-964,M,Swehl,https://swehl.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-965,M,Quechua SS25 Lookbook,https://quechua-lookbook.com/ss25,ecommerce,A1 Gallery,https://www.a1.gallery
-966,M,Mother Root,https://www.motherroot.london/,ecommerce,A1 Gallery,https://www.a1.gallery
-967,M,The Department of Bed Intentions,https://bedintentions.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-971,M,Italic,https://italic.com/,ecommerce,A1 Gallery,https://www.a1.gallery
-1114,O,regrocery,https://www.awwwards.com/sites/regrocery,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=54
-1367,R,Aroz Jewelry,https://www.awwwards.com/sites/aroz-jewelry,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=62
-1392,S,Apose,https://www.awwwards.com/sites/apose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
-1472,T,Fossula,https://www.awwwards.com/sites/fossula,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
-1480,T,Public --- Domain,https://www.awwwards.com/sites/public-domain,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
-1488,T,Provider Store,https://www.awwwards.com/sites/provider-store,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
-1525,T,Deepondé,https://www.awwwards.com/sites/deeponde,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=67
-1559,U,ChiviChivi,https://www.awwwards.com/sites/chivichivi,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
-1722,W,Ashley & Co,https://www.awwwards.com/sites/ashley-co,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=74
-1761,W,Martine Rose,https://www.awwwards.com/sites/martine-rose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=75
-1980,Z,Red Edition,https://www.awwwards.com/sites/red-edition,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+176,B,Seed,https://seed.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+181,B,Aether 1,https://www.aether1.ai/,ecommerce,A1 Gallery,https://www.a1.gallery
+227,B,Cob,https://cobfoods.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+228,B,Darkroom,https://www.darkroom.au/,ecommerce,A1 Gallery,https://www.a1.gallery
+247,C,ALSO,https://ridealso.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+254,C,Revitin,https://revitin.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+260,C,Collider,https://www.drinkcollider.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+261,C,Pelata Pieces,https://www.pelatapieces.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+281,C,Mostly Objects,https://mostlyobjects.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+282,C,DUA™,https://duabyab.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+300,C,Graza,https://www.graza.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+301,C,Velora Home,https://www.velorahome.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+318,C,New Ground Coffee,https://www.newgroundcoffee.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+319,C,Monolith,https://monolith.nyc/,ecommerce,A1 Gallery,https://www.a1.gallery
+320,C,Redbrick,https://redbrick.coffee/,ecommerce,A1 Gallery,https://www.a1.gallery
+452,D,Zerodois,https://zerodois.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+453,D,Daydream 1820,https://daydream1820.com/en,ecommerce,A1 Gallery,https://www.a1.gallery
+454,D,Potion,https://mixpotion.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+488,E,re_,https://regrocery.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+557,E,Agronomy Workshop,https://agronomywork.shop/,ecommerce,A1 Gallery,https://www.a1.gallery
+558,E,Kalstore®,https://kal-store.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+571,E,AirPods Pro 3,https://www.apple.com/airpods-pro,ecommerce,A1 Gallery,https://www.a1.gallery
+572,E,Curated Supply,https://curated.supply/,ecommerce,A1 Gallery,https://www.a1.gallery
+579,E,The Stacked Store,https://stackedstore.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+580,E,Arturel,https://arturel.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+581,F,OEM,https://oem.care/,ecommerce,A1 Gallery,https://www.a1.gallery
+582,F,Recess,https://ourrecess.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+583,F,hers,https://www.forhers.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+592,F,Reframed,https://reframedbrand.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+632,F,Touchy Coffee,https://touchycoffee.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+633,F,Eislab,https://eis-lab.de/en-us,ecommerce,A1 Gallery,https://www.a1.gallery
+634,F,Dirty Vine,https://dirtyvine.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+660,F,Fairgrounds,https://www.visitfairgrounds.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+748,G,Matic,https://maticrobots.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+749,G,The Unwash,https://theunwash.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+818,H,Permian,https://permianworld.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+821,H,Pixelier Mache,https://www.pixeliermache.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+943,I,Swim Club,https://swimclub.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+944,I,Better Nights,https://www.betternights.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+952,I,Pepette,https://www.pepette.co/,ecommerce,A1 Gallery,https://www.a1.gallery
+964,I,Swehl,https://swehl.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+965,I,Quechua SS25 Lookbook,https://quechua-lookbook.com/ss25,ecommerce,A1 Gallery,https://www.a1.gallery
+966,I,Mother Root,https://www.motherroot.london/,ecommerce,A1 Gallery,https://www.a1.gallery
+967,I,The Department of Bed Intentions,https://bedintentions.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+971,I,Italic,https://italic.com/,ecommerce,A1 Gallery,https://www.a1.gallery
+1114,J,regrocery,https://www.awwwards.com/sites/regrocery,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=54
+1367,L,Aroz Jewelry,https://www.awwwards.com/sites/aroz-jewelry,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=62
+1392,M,Apose,https://www.awwwards.com/sites/apose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=63
+1472,M,Fossula,https://www.awwwards.com/sites/fossula,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
+1480,M,Public --- Domain,https://www.awwwards.com/sites/public-domain,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
+1488,M,Provider Store,https://www.awwwards.com/sites/provider-store,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=66
+1525,N,Deepondé,https://www.awwwards.com/sites/deeponde,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=67
+1559,N,ChiviChivi,https://www.awwwards.com/sites/chivichivi,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=69
+1722,O,Ashley & Co,https://www.awwwards.com/sites/ashley-co,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=74
+1761,P,Martine Rose,https://www.awwwards.com/sites/martine-rose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=75
+1980,R,Red Edition,https://www.awwwards.com/sites/red-edition,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=82
+2015,R,Shopskin,https://www.awwwards.com/sites/shopskin,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=101
+2042,R,Stine Goya,https://www.awwwards.com/sites/stine-goya,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=102
+2068,R,Sonia Rykiel,https://www.awwwards.com/sites/sonia-rykiel,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=103
+2091,S,Gourmet House Caviar,https://www.awwwards.com/sites/gourmet-house-caviar,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=103
+2133,S,Polaroid Originals,https://www.awwwards.com/sites/polaroid-originals,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=105
+2203,T,Réard Paris,https://www.awwwards.com/sites/reard-paris,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=107
+2319,U,-99 design studio,https://www.awwwards.com/sites/99-design-studio,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=111
+2451,V,Paul Valentine,https://www.awwwards.com/sites/paul-valentine,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=115
+2452,V,BeoPlay H9,https://www.awwwards.com/sites/beoplay-h9,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=115
+2462,V,The Horological Smartwatch,https://www.awwwards.com/sites/the-horological-smartwatch,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=115
+2526,V,Cold Press Juice,https://www.awwwards.com/sites/cold-press-juice,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=117
+2624,W,Cantor Fine Art,https://www.awwwards.com/sites/cantor-fine-art,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=122
+2694,X,BB Dakota eCommerce Platform,https://www.awwwards.com/sites/bb-dakota-ecommerce-platform,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=124
+2748,X,Draw a better 2016,https://www.awwwards.com/sites/draw-a-better-2016,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=127
+2754,X,Trefecta,https://www.awwwards.com/sites/trefecta,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=127
+2756,X,Sabé Masson,https://www.awwwards.com/sites/sabe-masson,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=127
+2759,X,Shape Christmas,https://www.awwwards.com/sites/shape-christmas,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=127
+2771,Y,Gitman Bros.,https://www.awwwards.com/sites/gitman-bros,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=127
+2793,Y,New from Bose,https://www.awwwards.com/sites/new-from-bose,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=131
+2795,Y,Eye Heart World,https://www.awwwards.com/sites/eye-heart-world,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=131
+2810,Y,Bugaboo.com,https://www.awwwards.com/sites/bugaboo-com,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=132
+2815,Y,Cienne,https://www.awwwards.com/sites/cienne-ny,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=132
+2835,Y,Nike - Geç Kendini,https://www.awwwards.com/sites/nike-gec-kendini-experience,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=132
+2849,Y,AIAIAI,https://www.awwwards.com/sites/aiaiai,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=133
+2885,Y,Chris Niedenthal,https://www.awwwards.com/sites/chris-niedenthal,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=135
+2934,Z,GEOX Amphibiox,https://www.awwwards.com/sites/geox-amphibiox,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=141
+2976,Z,R+Co,https://www.awwwards.com/sites/r-co,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=142
+2996,Z,V76,https://www.awwwards.com/sites/v76,ecommerce,Awwwards — Sites of the Day,https://www.awwwards.com/websites/sites_of_the_day/?page=143
